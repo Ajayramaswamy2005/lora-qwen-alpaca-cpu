@@ -1,0 +1,1002 @@
+[
+  {
+    "output": "It's hard to accurately determine the exact type of song from just two lines of the lyrics provided. However, based on the information given, it's most likely that this is from the opening line of the song \"Stand by Me\" by Ben E. King which is a popular R&B/Soul song. Additionally, the mood of the lyrics seems to suggest a ballad or romantic type of song.",
+    "input": "When the night has come \nAnd the land is dark",
+    "instruction": "Identify the type of song that a given lyrics is written in."
+  },
+  {
+    "output": "1. Hello, how may I assist you today?\n2. Hi there, it's great to see you. How can I be of service?\n3. Welcome back! What can I do for you at the moment?",
+    "input": "",
+    "instruction": "Generate three different ways to greet the user."
+  },
+  {
+    "output": "Teacher: Good morning, John. How are you today?\n\nStudent: Good morning, teacher. I am fine, thank you.\n\nTeacher: I wanted to talk to you about the history assignment that was due yesterday. I noticed that you did not turn it in.\n\nStudent: Yes, I'm sorry about that. I've been having some personal issues and it completely slipped my mind.\n\nTeacher: I understand that things can come up, but it's important to communicate that to me so that we can work together on a solution.\n\nStudent: I know, and I should have let you know earlier. Is there any way I can still turn it in for partial credit?\n\nTeacher: Yes, I will accept it for partial credit if you can have it to me by tomorrow. But in the future, please make sure to communicate any issues to me as soon as possible and we can work to find a solution together.\n\nStudent: Thank you, I appreciate that. I will make sure to have it to you by tomorrow and will communicate better in the future.\n\nTeacher: Great, thank you for understanding. Let me know if there's anything else you need.",
+    "input": "",
+    "instruction": "Generate a conversation between a teacher and student about a late assignment"
+  },
+  {
+    "output": "The volume of a rectangular prism is calculated by multiplying its three dimensions. A rectangular prism with dimensions of 3, 4, and 5 meters would have a volume of 3 x 4 x 5 = 60 cubic meters.",
+    "input": "",
+    "instruction": "What is the volume of a rectangular prism with dimensions 3, 4 and 5 meters?"
+  },
+  {
+    "output": "Based on the subject, sender and content of the email, it appears to be a promotional email and can be classified as spam.",
+    "input": "Subject: Re: Win access to our exclusive VIP lounge\nSender: promotions@specialoffers.com\nContent:\nRegister for the chance to win free membership to our exclusive VIP lounge.",
+    "instruction": "Classify the following instance of text as spam or ham"
+  },
+  {
+    "output": "Exponential curves tend to be used for modeling population growth because they represent the way populations naturally grow over time under ideal conditions. This is because populations tend to grow exponentially when resources, such as food, water, and living space, are unlimited.\n\nThe basic idea of exponential growth is that as the population increases, the growth rate increases as well. In other words, the larger the population, the more new individuals will be added to the population in the future. This is due to the reproductive potential of the population. The more individuals in the population, the more that can reproduce, and the greater the potential for future population growth.\n\nThat's why exponential curves are often used to represent population growth, because they take into account the compounding effect of population growth over time. An exponential curve starts out slowly but becomes steeper and steeper over time, which is typical of rapidly growing populations.\n\nHowever, it is important to note that exponential growth cannot continue indefinitely in the real world. Eventually, a population will reach its carrying capacity, which is the maximum population size that the environment can sustain. At this point, the growth rate will slow down, and the population will reach a state of equilibrium. This can be modeled using a logistic growth curve, which takes into account the limiting factors that eventually slow down population growth.",
+    "input": "",
+    "instruction": "Explain why exponential curves tend to be used for modelling population growth."
+  },
+  {
+    "output": "1. Why don't scientists trust atoms? Because they make up everything!\n2. Did you hear about the mathematician who\u2019s afraid of negative numbers? He will stop at nothing to avoid them.\n3. Why don't eggs tell jokes? They'd crack each other up.\n4. Did you hear about the claustrophobic astronaut? He just needed a little space.\n5. Why don\u2019t oysters share their pearls? Because they\u2019re shellfish.",
+    "input": "",
+    "instruction": "Generate a few funny jokes."
+  },
+  {
+    "output": "Working from home provides us with a unique set of opportunities to explore while still being comfortable in our own space.",
+    "input": "Working from home really limits our opportunities.",
+    "instruction": "Reword the following sentence so that it remains true but sounds more optimistic."
+  },
+  {
+    "output": "\"The Rise of AI Robots: Exploring the Advancements and Possibilities\"",
+    "input": "",
+    "instruction": "Generate a title for an article about artificially intelligent robots."
+  },
+  {
+    "output": "\"Empowering minds, shaping the future: The University for tomorrow's leaders.\"",
+    "input": "",
+    "instruction": "Create a tagline for a university."
+  },
+  {
+    "output": "Gleaming ocean blue\nSun shines on rippling water\nSerenity swims.",
+    "input": "Swimming in the sea on a sunny day",
+    "instruction": "Given a description of a personal event, write a verse in haiku style."
+  },
+  {
+    "output": "Market analysis for Spotty, a startup company in the digital marketing space:\n\nOverview:\nDigital marketing refers to all marketing efforts that use digital channels such as search engines, social media, email, websites, mobile and digital advertising to connect with consumers. The global digital marketing market size was estimated at USD $360.3 billion in 2020 and is expected to expand at a CAGR of 17.6% from 2021 to 2028. This growth is due to more consumers relying on the internet for information, making digital marketing a crucial aspect for businesses to reach their target audience. \n\nMarket Trends:\nThe digital marketing space is constantly evolving, and some trends to look out for as a company in this space include:\n\n1. Personalization: With consumers being bombarded with advertising and promotional messages, personalization is crucial to help companies stand out from the clutter. Personalized content, offers, and communication have been shown to improve engagement rates significantly.\n\n2. Voice-activated search: With the increasing popularity of voice assistants, companies need to optimize their content for voice-activated searches.\n\n3. Artificial Intelligence and Machine Learning: With the advancements in AI and machine learning, more companies are using these technologies to analyze consumer behavior to create targeted and personalized marketing campaigns.\n\n4. Video Marketing: With more consumers consuming video content, video marketing is becoming an essential part of digital marketing strategies.\n\n5. Social Media: Social media continues to be an integral part of digital marketing, with companies using these platforms to reach and engage with their target audience.\n\nTarget Market:\nSpotty's target market would depend on the specific products or services offered by the company, but since the company is in the digital marketing space, its target market could include small to medium-sized businesses that are looking to improve their online presence and reach their target audience through digital channels.\n\nCompetition:\nThe digital marketing space is highly competitive, with many established players and new entrants. Some of the key players in the market include Google, Facebook, Adobe Systems, Oracle, Salesforce, and Microsoft. Spotty would need to differentiate itself from its competitors by offering unique or innovative products or services, competitive pricing, or a high level of customer service.\n\nPotential Challenges:\nSome potential challenges that Spotty may face as a startup company in the digital marketing space include:\n\n1. Keeping up with the rapidly changing market trends and consumer behavior.\n2. Standing out in a highly competitive market.\n3. Attracting and retaining customers.\n4. Building",
+    "input": "Company Name: Spotty\nMarket: Digital marketing",
+    "instruction": "Create a market analysis for a startup company in the digital marketing space."
+  },
+  {
+    "output": "1. Diamond-shaped bristles for superior cleaning and removing more plaque.\n2. Sonic technology for dynamic fluid action between teeth.\n3. Five brushing modes including Clean, White, Sensitive, Gum Care, and Deep Clean.",
+    "input": "Product: Philips Sonicare Diamond Clean Toothbrush",
+    "instruction": "Specify three features from the given product."
+  },
+  {
+    "output": "# Technical Design Document - Product Inquiry Chatbot\n\n## Overview\nThis document outlines the technical design for a chatbot that will be able to answer user\u2019s questions related to a company\u2019s products.\n\n## Functional Requirements\n- The chatbot must be incorporated into the company\u2019s website and/or mobile application.\n- The chatbot must be able to respond to user input in text form.\n- The chatbot must be able to provide accurate information about the company\u2019s products.\n- The chatbot must be able to handle a variety of product-based questions (e.g. pricing, features, availability, etc).\n- The chatbot must be able to provide answers in a conversational and user-friendly manner.\n\n## Technical Requirements\n- The chatbot will be built using natural language processing, machine learning, and artificial intelligence technology.\n- The chatbot will leverage the company\u2019s existing product database through the use of APIs, to retrieve up-to-date and accurate product information.\n- The chatbot will be cloud hosted, to ensure scalability and ease of maintenance.\n- The chatbot will have a user interface that can be easily embedded into the company\u2019s website and/or mobile application.\n\n## Design\n### Architecture\n- The chatbot will be a standalone service, which will interact with the user-facing application via APIs.\n- The chatbot will leverage cloud hosting services, such as Azure or AWS, to host the chatbot engine and maintain scalability.\n- The chatbot will communicate with the company\u2019s product database through the use of APIs.\n\n### Chatbot Workflow\n1. The user will initiate a conversation with the chatbot through a text-based user interface.\n2. The chatbot will process the user\u2019s input using natural language processing and machine learning algorithms.\n3. The chatbot will then use the processed input to formulate a relevant response by querying the company\u2019s product database through the use of APIs.\n4. The chatbot will then display the response in a conversational manner to the user through the user interface.\n5. The user can then ask additional questions, and the process will repeat from step 2.\n\n## Conclusion\nThis technical design outlines a chatbot feature that can be easily incorporated into a company\u2019s website and/or mobile application, to provide accurate and up-to-date information about the company\u2019s products. The chatbot will leverage natural language processing, machine learning, and artificial intelligence technology to provide a user-friendly and conversational experience to the user.",
+    "input": "The chatbot should be able to answer questions about a company's products.",
+    "instruction": "Create a technical design document for this chatbot feature."
+  },
+  {
+    "output": "As I looked out the window, the wind blew so fiercely that it bent the trees and shook the leaves from their branches.",
+    "input": "",
+    "instruction": "Generate a sentence using the phrase \"the wind blew\"."
+  },
+  {
+    "output": "A vector in programming refers to a dynamic array, which is a type of dynamic data structure capable of holding elements of the same or varying types. Vectors are similar to arrays. However, unlike arrays with a fixed size, vectors are more flexible, allowing you to add or remove elements while the program runs. The size of the vector adjusts automatically as the elements are inserted or deleted at runtime.\n\nVectors are implemented as classes with methods and attributes that allow for various manipulations. Some common operations you can perform on vectors include inserting and removing elements at specified positions, searching for an element or a range of elements, accessing vector elements, or iterating over them. \n\nVectors are available in various programming languages in the standard library, including C++, Python, and Java. For example, the C++ standard library has a vector container class template. On the other hand, Python's implementation of vectors is in the form of lists, while Java has a Vector class, which is similar to the ArrayList class but synchronized.",
+    "input": "",
+    "instruction": "Explain what a vector is in programming."
+  },
+  {
+    "output": "Online learning and traditional learning are two different modes of education delivery. Both have their own advantages and disadvantages, and it is important to consider these differences before deciding which method is most suited to your individual needs.\n\nTraditional learning, also known as classroom-based learning, typically involves education being delivered in-person by teachers or instructors in a physical classroom or lecture hall. This mode of learning has been in existence for hundreds of years and is well-established in most education systems worldwide. Traditional learning offers students the opportunity to interact face-to-face with their teachers and classmates, fosters collaboration, and allows for immediate feedback and clarification of doubts.\n\nOn the other hand, online learning, also known as e-learning, involves education being delivered via the internet using various digital tools and platforms. Online learning has been on the rise in recent years due to advancements in technology, and it offers students the flexibility to learn from anywhere, at any time. Online courses often have a more flexible schedule, allowing students to balance their education with work or other commitments.\n\nOne key difference between online and traditional learning is the level of interaction between students and teachers. In a traditional classroom setting, students can interact with their teachers in real-time, ask questions, and participate in group discussions. However, in an online course, these interactions may be limited or asynchronous, meaning that there may be a delay in communication. Some students may find it challenging to stay motivated and engaged in an online course without the immediate feedback and support of a teacher.\n\nAnother difference between the two modes of learning is the level of self-discipline required. Online learning often requires students to be more proactive in managing their time and staying on top of coursework. In contrast, traditional learning provides more structure, with fixed schedules and deadlines set by the teacher.\n\nIn conclusion, both online and traditional learning have their own advantages and disadvantages. Online learning offers more flexibility, while traditional learning offers more structure and face-to-face interaction. Ultimately, the choice between the two modes of learning will depend on the individual's learning style, needs, and goals.",
+    "input": "",
+    "instruction": "Compare and contrast online learning and traditional learning."
+  },
+  {
+    "output": "To [Name],\n \nI wanted to update you on the status of our project. Currently, we are right on track with our timeline and making progress in all areas. Our team is working diligently to ensure that we meet our goals and deliverables within the expected timeframe.\n\nI have attached a document that outlines our progress in detail, along with areas where we have excelled and areas that may require some additional attention in the coming weeks.\n\nPlease take a moment to review this document and let me know if you have any questions or concerns. Our team is dedicated to ensuring the success of this project, and we appreciate your feedback and support.\n\nThank you for your continued trust in our abilities, and I look forward to discussing this further with you.\n\nBest regards, \n[Your name]",
+    "input": "Subject: Project status update",
+    "instruction": "Write a business email with the following information:"
+  },
+  {
+    "output": "```\n# Define a function named checkPalindrome with an argument named arg.\ndef checkPalindrome(arg):\n   # The conditional statement checks whether the string is the same when reversed using slicing method [::-1]\n   if arg == arg[::-1]:\n      # If it is a palindrome, the function returns True\n      return True\n   else:\n      # Otherwise, the function returns False\n      return False \n```",
+    "input": "def checkPalindrome(arg):\n   if arg == arg[::-1]:\n      return True\n   else:\n      return False",
+    "instruction": "Comment the code to explain what it does."
+  },
+  {
+    "output": "Los Angeles is a large city located in southern California, situated in a basin formed by the Santa Monica Mountains to the north, the San Gabriel Mountains to the east, and a series of low-lying hills to the south that separate the city from the Pacific Ocean. The city's topography is generally characterized by hills, rolling terrain, and flat areas interspersed with steep canyons and valleys.\n\nLos Angeles is infamous for its iconic Hollywood Hills, but the city actually has several other hill ranges, including the Baldwin Hills, the Puente Hills, and the Eastern Santa Susana Mountains. In addition, the city is crisscrossed with scenic canyons such as Topanga Canyon and Laurel Canyon, which are home to luxurious homes and breathtaking views of the cityscape and coastline.\n\nThe Los Angeles River runs through the city and provides some gentle relief to the primarily urban landscape. Many parks and green spaces can be found throughout the city, including Griffith Park which offers a sweeping view of the Los Angeles Basin.\n\nOverall, the topography of Los Angeles is varied and provides a rich diversity of landscapes, from the sparkling waters of the Pacific Ocean to the rugged peaks of the surrounding mountain ranges.",
+    "input": "",
+    "instruction": "Describe the topography of the city Los Angeles."
+  },
+  {
+    "output": "Once upon a time, in a far-off kingdom, there lived a young girl named Alice. She lived a tedious life and longed for an adventure. One beautiful morning, as she set off for her chores, she stumbled upon an old book, hidden away on a dusty shelf of her town\u2019s library.\n\nAs she flipped through the pages, she heard a faint voice; the book was talking to her! Startled, she slammed the book shut and ran home, thinking it was her imagination. But her curiosity got the best of her, and she found herself wandering back to the library the next day.\n\nAs she opened the book, the voice introduced itself as \"The Keeper of Tales.\" The book was no ordinary book; it had special powers that could whisk its reader away into its fantastical world, vibrant with enchanting creatures and wondrous sceneries.\n\nEach day, she would visit the library to read and talk to her new friend, the talking book. And each day, she got lost in the incredible tales the book would tell, taking her on wild adventures that lifted her mundane life.\n\nThe Keeper of Tales became her confidant, someone who never judged and was always there to listen as she poured her heart out. Their bond grew stronger with each passing day, and soon, it became her escape, her tiny secret haven from the world.\n\nOne day, Alice came to the library to find that her magical friend was gone. The librarian had given the book away, thinking no one wanted it. Heartbroken, Alice burst into tears, thinking she would never see her friend again.\n\nBut as it turned out, The Keeper of Tales had woven its magic, and every time Alice opened a book, it whispered secrets and spun stories that filled her heart with joy. The talking book had given her the gift of imagination and a love for reading that would last her a lifetime.",
+    "input": "",
+    "instruction": "Come up with a creative story about a talking book."
+  },
+  {
+    "output": "He was startled when he heard the news.",
+    "input": "startled",
+    "instruction": "Select the most suitable word from the following list to fill the blank.\n\nHe was ______ when he heard the news."
+  },
+  {
+    "output": "4 km is equivalent to 2.48548477 miles.",
+    "input": "",
+    "instruction": "Convert 4 km to miles."
+  },
+  {
+    "output": "The apple was delicious, but the banana was not as tasty.",
+    "input": "The apple was tasty, but the banana was not so yummy.",
+    "instruction": "Given the following text, edit it to improve grammar."
+  },
+  {
+    "output": "A persuasive speech is effective because it utilizes various techniques and elements that work together to influence the audience's opinions or actions. Some of the key factors that make a persuasive speech effective include:\n\n1. Strong and organized arguments: The foundation of any persuasive speech is a carefully crafted argument that logically presents the speaker's point of view. A good persuasive speech is organized and presents logical and evidence-based arguments that are designed to convince the audience.\n\n2. Emotional connection: Effective persuasive speeches go beyond logical arguments and also make an emotional connection with the audience. By using stories, anecdotes, and other emotional appeals, speakers can tap into the audience's feelings and make their case more compelling.\n\n3. Credibility: A credible speaker is more likely to persuade an audience. Factors that contribute to a speaker's credibility include their expertise, experience, and reputation. By establishing their credibility, speakers can gain the trust and respect of their audience.\n\n4. Call to action: A persuasive speech is designed to motivate the audience to take a specific action. An effective speech therefore includes a clear call to action that tells the audience exactly what they should do and how they can do it.\n\n5. Presentation skills: A speaker's delivery can significantly impact the effectiveness of their speech. Good presentation skills, including eye contact, body language, and vocal variety, can help engage the audience and hold their attention.\n\n6. Audience analysis: Understanding the audience is crucial to delivering an effective persuasive speech. By knowing their beliefs, values, and needs, speakers can tailor their message to appeal to their audience and effectively persuade them.\n\nIn conclusion, an effective persuasive speech is a combination of well-crafted arguments, emotional connection, credibility, call to action, presentation skills, and audience analysis. By utilizing these elements, speakers can influence their audience's opinions and actions.",
+    "input": "",
+    "instruction": "Analyze why a persuasive speech is effective."
+  },
+  {
+    "output": "One commonly used e-commerce platform is Shopify.",
+    "input": "",
+    "instruction": "Name a commonly used e-commerce platform."
+  },
+  {
+    "output": "The statement \"Take this pill and you will feel better\" is an example of a promise, which falls into the element of persuasion known as \"Pathos\" - an appeal to the audience's emotions.",
+    "input": "\"Take this pill and you will feel better.\"",
+    "instruction": "Classify the following statement into one of the four elements of persuasion."
+  },
+  {
+    "output": "A great way to introduce two people, John and Mary in this case, would be to bring up any common interests or shared connections that they might have. For Example, you could say \"John, I'd like you to meet Mary. She also enjoys hiking and is a fellow member of the book club. Mary, this is John, he's an avid reader and shares your love for the outdoors!\" By highlighting mutual interests, it can be easier for them to strike up a conversation and get to know each other better.",
+    "input": "John and Mary.",
+    "instruction": "What is a good way to introduce two people?"
+  },
+  {
+    "output": "Grace as gentle as a river's flow,\nPeaceful whispers soft and low,\nA dance of nature, unending show,\nThe beauty of life, love to bestow.",
+    "input": "grace, river, whisper",
+    "instruction": "Write a short poem containing the given words."
+  },
+  {
+    "output": "Rule 1: The size of elephants is greater compared to cats.\nRule 2: The vocalization of dogs is characterized as barking.\nRule 3: Ducks have the ability to swim in water.",
+    "input": "A facts set about animals\n\nFACT 1: Elephants are bigger than cats\nFACT 2: Dogs bark\nFACT 3: Ducks can swim",
+    "instruction": "Go through the given set of facts and generate rules for them."
+  },
+  {
+    "output": "Once upon a time in a lush green forest, there lived an elephant and a mouse. They were the best of friends, always playing together and having fun exploring their world. One day, the mouse went out to gather acorns for a little snack. He struggled to carry the heavy acorn back to his home, with it being half his size. The elephant saw the mouse struggling and offered to carry it back for him.\n\nThe elephant lifted the acorn up with his trunk and placed it gently into the mouse\u2019s home. \u201cThere you go, my friend,\u201d he said. The mouse was overwhelmed with gratitude and thanked the elephant for his help. From then on, the elephant would help the mouse gather acorns, bringing back as many as he could carry. Together, they would enjoy the tasty treats, and this little act of kindness brought them even closer.\n\nAs time passed, the mouse would return the favor by helping the elephant in other ways. Whenever the elephant needed a tiny piece of food that he couldn't reach or an itch that he needed to be scratched, the mouse would scurry up to help him. The two friends had formed a bond that nothing could break.\n\nThe moral of the story is that kindness goes a long way. Even though the elephant was much bigger and stronger than the mouse, he still helped him with something as small as an acorn. And the mouse, even though tiny, was able to help the elephant in ways the elephant couldn't help himself. Size doesn\u2019t matter when it comes to friendship and helping others.",
+    "input": "Animals: Elephant, Mouse\nObject: Acorn",
+    "instruction": "Create a story about given animals and object."
+  },
+  {
+    "output": "Chess is a two-player game played on a square board divided into 8x8 squares of alternating colors. Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns.\n\nThe goal of the game is to checkmate the opponent\u2019s king, where the king is in a position to be captured (in check) and there is no legal move to remove the threat. Stalemate occurs when there's no legal move for the player to make, but their king is not in check. \n\nThe game starts with the white player moving their piece first. Then players alternate turns. A player may not make a move that puts or leaves their king in check.\n\nHere's how each piece can move:\n- The king can move one square in any direction.\n- The queen can move any distance and in any direction - horizontally, vertically, or diagonally.\n- Rooks move along the ranks and files (in straight lines) for any distance.\n- Bishops move diagonally for any distance along the same color squares.\n- Knights move in an L shape - two squares in a straight line, then one square to the side. Knights are the only pieces that can jump over other pieces.\n- Pawns move forward one square, but capture diagonally. On their first move, they may move forward two squares. If an enemy pawn advances two squares and lands next to a pawn, the pawn may capture it \"en passant\".\n\nWhen a pawn reaches the opposite end of the board, it can be promoted to any other piece (except a king). This is called pawn promotion.\n\n'Castling' is a special move of the king and a rook simultaneously. The king moves 2 squares towards the rook, then the rook jumps over the king and lands on the square the king skipped. Castling is only possible if neither the king nor the rook have moved, the squares between them are unoccupied, and the king is not currently in check.\n\nThe game can end in checkmate, stalemate, resignation, and with agreement between the players - by drawing.",
+    "input": "",
+    "instruction": "Describe the rules of chess."
+  },
+  {
+    "output": "The probability of flipping a coin and having it land heads up is 0.5 or 50%. This is because a coin has only two sides, heads and tails, and each side has an equal chance of facing up.",
+    "input": "",
+    "instruction": "What is the probability that a flip of a coin lands heads up?"
+  },
+  {
+    "output": "Supervised learning and unsupervised learning are two of the main approaches to machine learning. Supervised learning involves using a labeled dataset to train a model to make accurate predictions or decisions. The model is given input/output pairs as training data and learns to generalize from these examples to make predictions about new, unseen data. In contrast, unsupervised learning does not use labeled data. Instead, the algorithm must find structure in the data on its own, without any explicit guidance. This can involve clustering data into groups based on similarity, or finding patterns and relationships between variables. As such, supervised learning is often used for predictive modeling, while unsupervised learning is commonly used for exploratory data analysis and uncovering hidden structures within data.",
+    "input": "",
+    "instruction": "Explain the differences between supervised and unsupervised learning in 5-8 sentences."
+  },
+  {
+    "output": "[\"House\", \"Representatives\", \"approve\", \"relief\"]",
+    "input": "The House of Representatives voted 218-208 Thursday to approve the new $2 trillion COVID-19 relief package.",
+    "instruction": "Find the words with two consecutive vowels in the article, output in the form of a list."
+  },
+  {
+    "output": "Social media has become an integral part of our everyday life, shaping our interactions and how we receive information. The role of social media in our society is multifaceted and complex, influencing everything from personal relationships to political movements. In this essay, we will discuss the role of social media in our lives and the impact of fake news on our society.\n\nAt its core, social media is a tool for connecting people. It allows us to keep in touch with friends and family, to network and build relationships, and to share our thoughts and experiences with others. Social media platforms like Facebook, Twitter, and Instagram are designed to help users create and share content, whether it be photos, videos, or written updates. These platforms have given us new ways to interact with each other, enabling us to share more of our lives with those around us.\n\nHowever, the role of social media extends far beyond just connecting people. It has also become a powerful tool for information dissemination, allowing us to access news, to learn new things, and to engage in discussions on a variety of topics. Social media has given rise to new forms of journalism, with citizen journalists and bloggers sharing their perspectives and reporting on events in real-time. The rise of social media has also led to an increase in activism, with individuals and organizations using these platforms to organize and promote causes, to raise funds, and to rally support for various initiatives.\n\nWhile social media has provided numerous benefits to society, it has also led to several challenges, particularly in the context of fake news. The term \"fake news\" refers to misinformation or propaganda that is deliberately spread through social media and other platforms to influence public opinion or deceive the public. The impact of fake news can be profound, as it can undermine trust in institutions, spread fear and panic, or even incite violence.\n\nThe rise of fake news on social media has led to increased scrutiny of these platforms, with many calling for greater oversight and regulation to address the issue. However, despite these efforts, fake news continues to be a major problem, particularly during election cycles or other high-stakes events. The impact of fake news is compounded by the algorithms used by social media platforms, which can amplify false information by prioritizing content that is engaging or controversial, regardless of its factual accuracy.\n\nIn conclusion, social media has played a complex and multifaceted role in our society, providing numerous benefits while also presenting significant challenges. The impact of fake news on social media is a particularly pressing problem, highlighting",
+    "input": "- The role of social media\n- Impact of fake news",
+    "instruction": "Write an essay summarizing and explaining the following topics."
+  },
+  {
+    "output": "The moon smiled down at the weary traveler, casting a gentle glow that illuminated their path and banished the looming shadows of the night.",
+    "input": "",
+    "instruction": "Generate an example of personification."
+  },
+  {
+    "output": "(-1)6 = (-1)6^2 - 6 + 1 = -41",
+    "input": "",
+    "instruction": "The operation is defined by a b=ab^2-b+1. What is the value of (-1) 6?"
+  },
+  {
+    "output": "Our character is an animator: passionate, dedicated, and overflowing with creativity. With their wild hair, expressive features, and a lovingly curated collection of graphic tees, this person exudes an air of artistic quirkiness. They are always hard at work, conjuring up fantastical creatures and spellbinding new worlds with the skilled flick of their pen or tablet. Their love for their work is infectious, and they are never happier than when they get to share it with others.",
+    "input": "",
+    "instruction": "Create a character sketch for an animator in a few sentences."
+  },
+  {
+    "output": "Here's a Python program that can find the biggest rectangular area in a histogram:\n\n```\ndef max_area_in_histogram(hist):\n    stack = []\n    max_area = 0\n    i = 0\n    while i < len(hist):\n        if (not stack) or (hist[i] >= hist[stack[-1]]):\n            stack.append(i)\n            i += 1\n        else:\n            top = stack.pop()\n            area = hist[top] * ((i - stack[-1] - 1) if stack else i)\n            max_area = max(max_area, area)\n    while stack:\n        top = stack.pop()\n        area = hist[top] * ((i - stack[-1] - 1) if stack else i)\n        max_area = max(max_area, area)\n    return max_area\n```\n\nThis function takes a list of integer values representing the heights of the histogram bars as its only argument, and returns the maximum rectangular area in the histogram. It uses a stack to keep track of the indices of increasing histograph bars, and calculates the area of the rectangle formed by the top of the stack element and the current element. It then updates the max_area if necessary. Finally, it clears the stack to handle any remaining histogram bars, and returns the maximum area it has found.",
+    "input": "",
+    "instruction": "Write a program to find biggest rectangular area in histogram."
+  },
+  {
+    "output": "There are several ways in which artificial intelligence can improve customer experience, and one good example is through the use of chatbots. AI-powered chatbots can provide customers with instant, 24/7 assistance and support. Chatbots can answer frequently asked questions, provide personalized product recommendations, and troubleshoot issues in real-time. This enhances the customer experience by reducing wait times for assistance and providing quick and accurate responses to inquiries. Additionally, chatbots can learn from past interactions and improve over time, ensuring a continuously improving experience for customers.",
+    "input": "",
+    "instruction": "Give one good example of how artificial intelligence can help improve customer experience."
+  },
+  {
+    "output": "1. Water: An essential natural resource that sustains life on earth and is key in many industrial processes. \n2. Forests: A vital natural resource that provides habitats for wildlife, aids in the regulation of the Earth's climate, supports soil conservation, and acts as a source of timber, fruits, and medicines. \n3. Fossil Fuels: Non-renewable resources, such as coal, oil, and natural gas, which are used as a source of energy to power homes, businesses, and industries. \n4. Minerals: Valuable resources including metals and non-metals that are extracted from the earth, used for construction, manufacturing, and other applications.",
+    "input": "",
+    "instruction": "Make a list of 4 natural resources in the environment."
+  },
+  {
+    "output": "When hydrochloric acid (HCl) and baking soda (sodium bicarbonate or NaHCO3) are combined, a chemical reaction occurs producing sodium chloride (NaCl), water (H2O) and carbon dioxide gas (CO2). The reaction can be written as:\n\nHCl + NaHCO3 \u2192 NaCl + H2O + CO2 \n\nDuring the reaction, the mixture will start bubbling or fizzing due to the release of the carbon dioxide gas. The effervescence is quite a visual effect. Because the reaction is exothermic, the mixture will also generate some heat. This is an acid-base reaction, neutralizing the strong acid hydrochloric acid with a weak base, sodium bicarbonate.",
+    "input": "Hydrochloric acid and baking soda",
+    "instruction": "Predict what would happen if two different chemical compounds are combined."
+  },
+  {
+    "output": "The sentence \"I seen the movie last night\" is incorrect because the verb \"seen\" is the past participle form of the verb \"to see\" which should be used with an auxiliary verb such as \"have\" or \"has.\" The sentence should be corrected to read: \"I saw the movie last night,\" using the simple past tense form of the verb \"to see.\"",
+    "input": "I seen the movie last night.",
+    "instruction": "Write a comment explaining why the following sentence is incorrect:"
+  },
+  {
+    "output": "Carbon dioxide is an important component of the Earth's atmosphere because it plays a crucial role in regulating the temperature of the planet. It is one of the main greenhouse gases that trap heat in the atmosphere and help to maintain the Earth's temperature within a range that can sustain life.\n\nCarbon dioxide is also essential for the process of photosynthesis in plants, which converts carbon dioxide and water into oxygen and sugar. This process provides the Earth's primary source of oxygen and helps to sustain life on the planet.\n\nThe concentration of carbon dioxide in the atmosphere has been increasing in recent years, which has led to concerns about the impact on the Earth's climate. However, in the right balance, carbon dioxide is an important component of the Earth's atmosphere that is essential for sustaining life.",
+    "input": "Carbon dioxide is an important component of the Earth's atmosphere.",
+    "instruction": "Given a statement, explain why it is correct."
+  },
+  {
+    "output": "VPNs are still useful for protecting your online privacy and security, but their effectiveness can vary depending on the specific use case. Some reasons why VPNs may not be as useful in certain situations include:\n\n1. Increased use of HTTPS: Many websites now use HTTPS encryption by default, making it harder for third parties to intercept your data. While VPNs can still be useful for masking your IP address and providing an additional layer of encryption, their overall impact is reduced.\n2. Limited access to streaming services: Streaming services such as Netflix have stepped up their efforts to block VPNs, making it more difficult to access content from other regions.\n3. Potential for slower connection speeds: Using a VPN can slow down your internet connection, which can be frustrating if you're trying to stream video or play games online.",
+    "input": "",
+    "instruction": "Why VPNs are not as useful anymore?"
+  },
+  {
+    "output": "Once in the Kingdom of Orthal, there lived a powerful and wise wizard named Merlin. He was known throughout the land for his mighty spells, his wisdom and his kindness. One day, a small village on the outskirts of the kingdom, was being terrorized by a fearsome dragon. It breathed fire, destroying crops and houses, and its roar shook the ground beneath. The village folk were frightened and didn't know what to do.\n\nMerlin heard of the village's plight and knew he couldn't turn a blind eye to their suffering. He made his way to the village and spoke to the Elders, offering his assistance. The villagers were overjoyed to have Merlin there to help them, and they all gathered around as he began to concoct his plan.\n\nMerlin knew that he needed to find the dragon's weakness in order to defeat it. He spent many nights poring over ancient books and scrolls, searching for a way to defeat the dragon. Finally, he discovered that the dragon's scales were impenetrable, except for a small spot near its heart. If he could hit that spot with a powerful spell, then he could defeat the dragon.\n\nMerlin shared his plan with the villagers, but they were afraid. What if Merlin missed? What if the dragon defeated him? But Merlin was determined, and he told the villagers that he would protect them, no matter what.\n\nThe next day, at dawn, Merlin went to face the dragon. The villagers gathered behind him, watching as he walked fearlessly towards the beast. The dragon roared, sending flames into the sky, but Merlin didn't waver. He lifted his staff and chanted a powerful spell. A beam of white light shot from his staff, hitting the dragon in its weak spot.\n\nThe dragon roared in pain, and then fell to the ground, defeated. Merlin had saved the village. The villagers cheered and ran to Merlin, thanking him and hugging him. Merlin had risked his own life to save them, and they would be forever grateful.\n\nFrom that day on, the village prospered. The crops grew, the houses were rebuilt, and there was joy and laughter once again. Merlin visited often, and was always welcomed with open arms. The village would never forget the brave wizard who saved them from the dragon, and his story would be passed down from generation to generation.",
+    "input": "",
+    "instruction": "Tell me a story about a wizard who saves a village from a dragon."
+  },
+  {
+    "output": "The movie rating for \"The Dark Knight\" varies depending on the movie ratings agency, for example, the Motion Picture Association of America (MPAA) has given it a rating of PG-13. On the other hand, it has an 9.0/10 rating on IMDb, based on user reviews, and a 94% approval rating on Rotten Tomatoes based on critics' reviews.",
+    "input": "Dark Knight",
+    "instruction": "What is the movie rating for the movie: Dark Knight?"
+  },
+  {
+    "output": "No, the phrase \"I was barking my dog\" doesn't make sense. Usually, it is the dog that barks, not the person. A more accurate phrase would be \"My dog was barking\" or \"I was walking my dog (while it was barking).\"",
+    "input": "",
+    "instruction": "Tell me if the phrase \"I was barking my dog\" makes sense."
+  },
+  {
+    "output": "The sentiment of this Twitter post is neutral with a slightly positive tone. The author expresses a desire for relaxation and enjoyment of bubble tea after a long day.",
+    "input": "It's been a long day and all I want is to relax and have some bubble tea.",
+    "instruction": "Given a Twitter post, classify the sentiment of the post."
+  },
+  {
+    "output": "Negative",
+    "input": "",
+    "instruction": "Classify the following text as either positive or negative: \"I'm feeling quite down today.\""
+  },
+  {
+    "output": "The temperature is 29.44\u00b0C.",
+    "input": "85\u00b0F",
+    "instruction": "Convert this temperature to Celsius."
+  },
+  {
+    "output": "Here is a simple HTML code that has a heading and a subheading:\n\n```html\n<!DOCTYPE html>\n<html>\n  <head>\n    <title>Page with Heading and Subheading</title>\n  </head>\n  <body>\n    <h1>This is a Heading</h1>\n    <h2>This is a Subheading</h2>\n  </body>\n</html>\n```\n\nIn this code, we have created an HTML page with a heading and a subheading using the `h1` and `h2` tags respectively. The `h1` tag is used for the main heading and the `h2` tag is used for the subheading. You can change the text inside the tags to customize the heading and subheading according to your needs.",
+    "input": "",
+    "instruction": "Create an HTML page with a heading and a subheading"
+  },
+  {
+    "output": "Yes, using hashtags can be a very effective strategy on social media platforms. They allow users to label their content and make it easier for others to discover their posts. By using relevant and popular hashtags, you can increase the visibility and reach of your posts, attract new followers, and engage with communities that share similar interests. However, it's important to use hashtags wisely and not overuse or misuse them, as this can have the opposite effect and turn off potential followers.",
+    "input": "",
+    "instruction": "Is using hashtags a good idea on social media?"
+  },
+  {
+    "output": "One possible scientific hypothesis related to climate change is that the increased emission of greenhouse gases such as carbon dioxide, methane, and nitrous oxide, caused by human activities such as burning fossil fuels for energy and transportation, deforestation, and industrial processes, are leading to a rise in global temperatures and causing more frequent and intense extreme weather events, as well as long-term changes in climate patterns. This can be tested through observation and analysis of temperature data, weather patterns, and greenhouse gas levels over time, and through the use of climate models to predict future changes based on current trends.",
+    "input": "",
+    "instruction": "Come up with a scienctific hypothesis related to climate change."
+  },
+  {
+    "output": "If you're planning to visit New York City with your family, here are some suggestions for your to-do list:\n\n1. Visit the Statue of Liberty and Ellis Island: These two landmarks are a must-see when visiting New York City. You can take a ferry to explore the island and learn about its history.\n \n2. Explore Central Park: Central Park is one of the most famous parks in the world and it's perfect for a family day out. Rent bikes, have a picnic or just walk around enjoying the beautiful scenery.\n\n3. Visit the Metropolitan Museum of Art: The Met is one of the largest and most comprehensive art museums in the world. It has a vast collection of over 2 million works of art, so there is plenty to see and explore for all ages.\n\n4. Walk the Brooklyn Bridge: Walking across the Brooklyn Bridge is a great way to experience the city and enjoy breathtaking views of the Manhattan skyline.\n\n5. Visit the American Museum of Natural History: this museum has something for everyone in the family, from dinosaur skeletons to a planetarium and an IMAX theater, you can spend a whole day exploring its exhibits.\n\n6. Take a stroll in Times Square: if you're looking for the hustle and bustle of New York City, Times Square is the place to go. With its bright lights, street performers and endless shopping and dining options, it's a must-see for every visitor.\n\n7. Enjoy great food: New York City has a wide variety of restaurants, from street food to fine dining. Make sure to try some of the iconic New York foods like pizza and bagels.\n\n8. See a Broadway show: Take your family to see a Broadway show, it's a special experience that you won't forget. There are shows to fit all tastes and ages, just make sure to book in advance.\n\nThese are just a few of the many things to do in New York City with your family. With its museums, parks, landmarks and attractions, the city has something to offer for everyone. Enjoy your trip!",
+    "input": "",
+    "instruction": "Create a to-do list for a family planning to visit New York City"
+  },
+  {
+    "output": "One example of an endangered species is the Amur leopard. The Amur leopard, also known as the Far Eastern leopard or the Korean leopard, is a subspecies of leopard native to the southeastern region of Russia and northeastern China. This species has been classified as critically endangered by the International Union for Conservation of Nature (IUCN) since 1996.\n\nOne of the main reasons why the Amur leopard is in danger is because of habitat loss. The rapid expansion of human populations in the region, as well as the development of infrastructure, has led to the destruction of much of the leopard's natural habitat. The conversion of forests into farmland or other forms of land use has severely reduced the number of prey species available for the leopards to hunt, leaving them with limited options for food.\n\nPoaching is another significant factor contributing to the decline of the Amur leopard population. Despite protective laws prohibiting the hunting and killing of Amur leopards, poaching remains a problem in the region. Amur leopards are targeted for their beautiful fur, which is sold illegally on the black market.\n\nInbreeding and disease also pose a threat to the survival of the Amur leopard. With such a small population size, it is difficult to maintain genetic diversity, which can result in inbreeding and increased susceptibility to diseases. \n\nConservation efforts are underway to help protect and recover the Amur leopard population. These efforts include habitat restoration, increased protection against poaching, and captive breeding programs.",
+    "input": "",
+    "instruction": "List an example of an endangered species and describe why it is in danger."
+  },
+  {
+    "output": "\"To the hilt\" is an idiomatic phrase meaning as completely or fully as possible. Originally, the phrase referred to when a sword was fully plunged into something, so that the hilt, or the handle of the sword, met the surface of the object being pierced. Figuratively, the phrase means to do something in its entirety or to the maximum extent possible.",
+    "input": "",
+    "instruction": "Tell me the meaning of the phrase \"to the hilt\"."
+  },
+  {
+    "output": "As a helpful AI assistant, I can certainly imagine what an alien might think of planet Earth after visiting it for the first time. Upon arrival, the alien might be struck by the stunning natural beauty of our planet, with its vast oceans, majestic mountains, lush forests, and diverse ecosystems. They might also be in awe of the incredible array of flora and fauna, with millions of different species of plants and animals, including humans.\n\nAt the same time, the alien might be perplexed by the many complex systems and structures created by humans, such as our cities, transportation networks, and forms of government, wondering why we have organized our societies in this way. They might also be puzzled by some of our behaviors and customs, such as our various forms of art, entertainment, and recreation.\n\nFinally, the alien might feel concerned by some of the challenges facing our planet, such as climate change, pollution, and conflicts between nations. However, they might also be heartened by the many initiatives and efforts underway to address these issues and build a more sustainable and peaceful world. In the end, the alien would likely leave with a deep appreciation for the beauty and diversity of Earth, as well as for the resilience and creativity of its inhabitants.",
+    "input": "",
+    "instruction": "Imagine an alien visiting planet Earth for the first time. Describe what the alien might think of the planet."
+  },
+  {
+    "output": "To calculate the angle between the hour and minute hand at 11:45, we need to find the position of each hand in terms of the angle it makes relative to the 12 o'clock position.\n\nAt 45 minutes past the hour, the minute hand points due west, which corresponds to an angle of 270 degrees.\n\nThe hour hand makes a full revolution every 12 hours, and each hour mark corresponds to a 30-degree increment ([360 degrees / 12 hours] = 30 degrees/hour). At 11:45, the hour hand is \u00be of the way from 11 to 12, or 11.75 hours. The angle of the hour hand is 30 degrees/hour \u00d7 11.75 hours = 352.5 degrees.\n\nThe difference between the two angles is 270 degrees - 352.5 degrees = -82.5 degrees. To express this as a positive, acute angle, we add 360 degrees to the result to find a final angle of 277.5 degrees between the hour and minute hand at 11:45.",
+    "input": "",
+    "instruction": "Calculate the angle between the hour hand and the minute hand at 11:45."
+  },
+  {
+    "output": "When a company introduces a new product, it's important to have a solid marketing strategy in place to create awareness and generate interest among potential customers. Some strategies a company can use to promote a new product include:\n\n1. Leverage Social Media: Social media platforms can be powerful tools to promote a new product. Companies can create buzz around the product by sharing pictures, videos, and information on their social media handles.\n\n2. Influencer Marketing: Collaborating with influencers to reach a wider audience is another effective way to promote a new product. Influencers can help create a buzz around the product by showcasing its features and benefits to their followers.\n\n3. Host an Event: Hosting a launch event is a great way to create excitement and generate media coverage for a new product. The company can invite journalists, bloggers, and industry experts to the event to attract publicity.\n\n4. Paid Advertising: Paid advertising can help reach potential customers who may not be aware of the new product. Companies can use targeted ads on search engines, social media platforms, and other websites to reach their target audience.\n\n5. Email Marketing: Email marketing is a cost-effective way to promote a new product to a large audience. Companies can send targeted emails to their subscribers highlighting the features and benefits of the new product.\n\n6. Offer Promotions: Offering limited-time deals, discounts, or bundles can be an effective way to create interest and drive sales of a new product. This can help attract customers who are on the fence about making a purchase.\n\nIn summary, there are many strategies a company can use to promote a new product, and the most effective approach will depend on the target audience, the product, and the company's overall marketing goals.",
+    "input": "",
+    "instruction": "What strategies can a company use to promote a new product?"
+  },
+  {
+    "output": "1. Shift to Renewable Energy Sources: One of the main solutions to reducing carbon dioxide levels in the atmosphere is to shift from fossil fuels to renewable energy sources such as solar, wind, and hydroelectric power. These sources don't produce any greenhouse gases and can significantly decrease our carbon footprint.\n\n2. Plant More Trees: Trees absorb carbon dioxide during photosynthesis and store it in their biomass. Planting more trees in urban and rural areas, and preventing deforestation can increase the amount of carbon dioxide being removed from the atmosphere.\n\n3. Increase Energy Efficiency: Energy efficiency can be increased by improving insulation in homes and buildings, using energy-efficient lighting, and investing in energy-efficient appliances. This will reduce the overall energy demand, and subsequently, the amount of carbon dioxide emissions.",
+    "input": "",
+    "instruction": "List three possible solutions to reduce carbon dioxide levels in the atmosphere."
+  },
+  {
+    "output": "The percentage of Number 1 (20) with respect to Number 2 (70) is 28.57%. The calculation is done as follows: (Number 1/ Number 2)*100 = (20/70)*100 = 28.57%.",
+    "input": "Number 1: 20\nNumber 2: 70",
+    "instruction": "Enter two numbers to calculate the percentage."
+  },
+  {
+    "output": "One specific application of a deep learning model can be in the field of computer vision for object recognition and detection. A convolutional neural network (CNN), a popular deep learning architecture, can be trained to automatically identify and categorize multiple objects within an image. With enough training data, the network is able to recognize complex features and patterns within the image, allowing it to accurately label and locate objects within the image.\n\nThis technology has many practical applications ranging from self-driving cars, where the model can detect and recognize pedestrians, vehicles, and road signs, to retail, where the model can help keep track of inventory by detecting and identifying products on the shelves. In addition, the technology can be used in security and surveillance systems, where the model can help detect and identify suspicious behavior or objects within the camera's field of view.",
+    "input": "",
+    "instruction": "Provide a specific application of a deep learning model."
+  },
+  {
+    "output": "Here are five printable flashcards for the subject of World History:\n\nCARD 1:\nFRONT:\nWorld History Flashcard\nAncient Egyptian Civilization\n\nBACK:\n- Developed along the Nile River, in what is now Egypt\n- Known for pyramids, hieroglyphics writing system, and advances in mathematics and agriculture\n- Key historical figures include Pharaohs such as Tutankhamun, Ramses II, and Cleopatra\n- Religion played a central role in society\n- Civilization thrived from approximately 3100 BC to 30 BC\n\nCARD 2:\nFRONT:\nWorld History Flashcard\nThe Renaissance\n\nBACK:\n- A cultural, artistic, and intellectual movement that originated in Italy in the 14th century\n- Marked by a renewed interest in Classical art and literature, and humanism\n- Key figures include Leonardo da Vinci, Michelangelo, William Shakespeare, and Galileo Galilei\n- Spread throughout Europe and had a lasting impact on art, science, and politics\n\nCARD 3:\nFRONT:\nWorld History Flashcard\nThe French Revolution\n\nBACK:\n- A period of radical social and political upheaval in France from 1789 to 1799\n- Key events include the Storming of the Bastille, the Reign of Terror, and the rise of Napoleon Bonaparte\n- Resulted in the fall of the monarchy and the establishment of a democratic government\n- Had a lasting impact on European politics and the world\n\nCARD 4:\nFRONT:\nWorld History Flashcard\nWorld War I\n\nBACK:\n- A global conflict that lasted from 1914 to 1918\n- Also known as the Great War, it involved most of the world's great powers, divided into two opposing alliances\n- More than 9 million soldiers and 7 million civilians died as a result\n- Significantly changed the political, economic, and social landscape of Europe\n\nCARD 5:\nFRONT:\nWorld History Flashcard\nThe Cold War\n\nBACK:\n- A state of political and military tension between the Western powers (led by the United States) and the Eastern powers (led by the Soviet Union) after World War II\n- Characterized by proxy wars, the arms race, and the Space Race\n- Key events include the Cuban Missile Crisis, the construction and fall of the Berlin Wall, and the dissolution of the Soviet Union\n- Ended in 1991 when the Soviet Union collapsed.",
+    "input": "Subject: World History",
+    "instruction": "Create printable flashcards from the following information."
+  },
+  {
+    "output": "The main difference between an accident and an incident lies in the outcome and intention behind it.\n\nAn accident is an unplanned, unintended event that results in injury or damage - it is unexpected and generally unforeseen. An example of an accident could be tripping over a hole, slipping on a wet floor, or getting into a car crash.\n\nAn incident, on the other hand, can be either accidental or intentional - it is an event or occurrence that disrupts the normal course of things or that interrupts a set of circumstances. Incidents have a wider scope and include both accidents and intentional acts. For example, an accident may lead to an incident but not all incidents are accidents.\n\nIn summary, accidents are a subset of incidents, and all accidents are incidents, but not all incidents are accidents.",
+    "input": "Accident: Incident",
+    "instruction": "Find the difference between the two given terms"
+  },
+  {
+    "output": "Going on a vacation can be a great way to relax, unwind, and bond with your loved ones. However, it's not always easy to save money while you're away from home. If you're looking to stretch your budget on your next vacation, here are some helpful tips that can help you save money.\n\n1. Plan early\n\nOne of the best ways to save on a vacation is to start planning early. This means you should research the ideal time to visit your destination and look for deals on flights and accommodation. With a little bit of patience, you can save a lot of money by traveling during slow seasons, booking your flights and hotel rooms ahead of time, and taking advantage of package deals.\n\n2. Set a budget\n\nBefore heading out on vacation, make sure to set a budget for yourself. This budget should take into account all of the expenses you will incur during your trip, including transportation, meals, tours, and activities. Once you've set your budget, stick to it, and try to avoid any unnecessary expenses or impulse purchases.\n\n3. Look for free activities\n\nMany destinations offer a wealth of free activities that you can enjoy. These can include free walking tours, museums, and art galleries, as well as parks and natural attractions. Do some research to find out what free activities are available at your destination and make sure to take advantage of them.\n\n4. Eat like a local\n\nEating out at restaurants can quickly add up, especially if you're traveling with a large group. Instead of splurging on expensive meals, opt for local eateries that serve authentic cuisine at a fraction of the cost. Visit local markets to buy fresh produce, and prepare your own meals whenever possible.\n\n5. Use public transportation\n\nRenting a car or taking taxis can be expensive, especially if you're traveling in a large city. Save money by using public transportation instead. Many destinations offer affordable bus, train, or subway systems that can get you around quickly and easily.\n\n6. Take advantage of discounts and travel rewards\n\nLastly, don't forget to take advantage of any discounts or travel rewards that you may have. Many credit card companies offer travel rewards programs that allow you to earn points or miles that can be redeemed for flights, hotel stays, and other travel-related expenses.\n\nIn summary, saving money on vacation requires a bit of planning and effort, but it's well worth it. With these tips, you can stretch your budget and make the most of your vacation without breaking",
+    "input": "",
+    "instruction": "Write a blog post about how to save money on a vacation."
+  },
+  {
+    "output": "Here's a script in Python that can determine the smallest number in the given array:\n\n```Python\nmy_list = [1, 5, 6, 8, -3, -2, 0]\n\nsmallest_num = min(my_list)\n\nprint(f\"The smallest number in the given array is: {smallest_num}\")\n```\n\nOutput:\n```\nThe smallest number in the given array is: -3\n```",
+    "input": "[1, 5, 6, 8, -3, -2, 0]",
+    "instruction": "Write a script that will determine the smallest number in a given array."
+  },
+  {
+    "output": "To find the word \"cat\" and replace it with another word, such as \"dog,\" the Find/Replace command would look like this:\n\nOriginal sentence: \"The cat sat on the mat\"\n\nFind: \"cat\" \nReplace with: \"dog\"\n\nResulting Sentence: \"The dog sat on the mat\"",
+    "input": "",
+    "instruction": "Construct a Find/Replace command for the sentence \"The cat sat on the mat\"."
+  },
+  {
+    "output": "1. Fresh fruit: Satisfy your sweet tooth with nature's candy! Snacking on fresh fruit like berries, apples, or bananas can provide a healthy dose of natural sugars, fiber, and essential vitamins and minerals.\n\n2. Dark Chocolate: If you can't resist chocolate, opt for dark chocolate varieties with at least 70% cocoa content. Although still sweet, these options contain antioxidants, have less sugar than milk chocolate, and can help satisfy chocolate cravings.\n\n3. Yogurt and honey: A small serving of Greek yogurt topped with a drizzle of honey and some nuts or seeds can provide calcium, protein, and healthy fats, making it a nutritious and satisfying snack.\n\n4. Smoothies: Blend up a nutritious mix of fruits and veggies to create a naturally sweet smoothie that'll provide lots of nutrients and fiber. Add in some protein via yogurt or nut butter to make it a more filling snack.",
+    "input": "",
+    "instruction": "Create a list of four healthy alternatives to chocolate."
+  },
+  {
+    "output": "One example of a Bluetooth enabled device is a wireless speaker.",
+    "input": "",
+    "instruction": "Name a Bluetooth enabled device."
+  },
+  {
+    "output": "Here's a randomly generated number between 1 and 10: 7.",
+    "input": "",
+    "instruction": "Generate a random number from 1 to 10."
+  },
+  {
+    "output": "One solution to this puzzle would be to use touch or sense of smell to differentiate between the two cats. You could put on gloves, and feel the texture of their fur or skin to see if there are any distinguishing features, such as one cat having longer or softer fur than the other.\n\nAlternatively, you could also use their sense of smell to distinguish between the two felines. Cats generally have a good sense of smell and release pheromones through their scent glands. You could introduce different scents or food items into the room and observe which cat is attracted to which scent, thereby separating the two.",
+    "input": "",
+    "instruction": "Come up with a solution to this puzzle: Two cats are in a room. One of them is white and the other is black. How do you separate them without relying on sound or sight?"
+  },
+  {
+    "output": "\"Say goodbye to bad hair days! I've been using [Brand] hair products and my hair has never felt so healthy and hydrated. Say hello to natural shine, volume and smoothness with every use! #goodhairday #beauty #haircare\"",
+    "input": "",
+    "instruction": "Write a tweet to share the benefits of using a specific brand of hair products."
+  },
+  {
+    "output": "______ is a popular student at the school.",
+    "input": "Tom is a popular student at the school.",
+    "instruction": "Create a fill in the blank question from the given sentence."
+  },
+  {
+    "output": "Emmeline Pankhurst was a political activist and leader of the British suffragette movement who fought for women's right to vote.",
+    "input": "Emmeline Pankhurst",
+    "instruction": "Given a person's name, provide their job title"
+  },
+  {
+    "output": "The 10th letter of the given text is 'k'.",
+    "input": "",
+    "instruction": "Find the 10th letter of the following text: \"The quick brown fox jumped over the lazy dog\"."
+  },
+  {
+    "output": "\"The Lion King\" is an animated movie with many memorable characters. \n\n1. Simba: Simba is the main protagonist of the movie, a lion cub who is the son of Mufasa and Sarabi. He is depicted as a curious and adventurous cub, who is later forced to confront his past and take his rightful place as the king of Pride Rock. \n\n2. Mufasa: Mufasa is the wise and noble king of Pride Rock, father to Simba, and older brother of Scar. He is a strong, honorable and brave lion who is loved and respected by all the animals in the Pride Land.\n\n3. Scar: Scar is the main antagonist of the movie, the younger brother of Mufasa, and the uncle of Simba. He is an envious and scheming lion who plots to take over the kingdom by any means necessary.\n\n4. Nala: Nala is Simba's childhood friend and love interest. She is a lioness who is determined, brave, and loyal. She later becomes the Queen of Pride Rock after Simba takes his place as king.\n\n5. Timon and Pumbaa: Timon and Pumbaa are a meerkat and warthog duo who become friends with Simba after he runs away from home. They are carefree, funny and always ready for adventure, and they teach Simba about their philosophy of \"Hakuna Matata\" (no worries).\n\n6. Rafiki: Rafiki is a wise old baboon who serves as the shaman of the Pride Lands. He is a wise and eccentric character who helps Simba discover his true identity and destiny.\n\n7. Sarabi: Sarabi is the queen of Pride Rock, mother to Simba, and mate of Mufasa. She is a strong, caring and devoted lioness who takes care of her pride and remains loyal to her husband even after his death.\n\n8. Zazu: Zazu is a red-billed hornbill who serves as the majordomo to Mufasa and later, Simba. He is a loyal, but somewhat fussy and nervous character who is always trying to keep the pride in order. \n\nThese are some of the main characters in \"The Lion King\", each with their own unique personality and role in the story.",
+    "input": "The Lion King",
+    "instruction": "Describe the characters in the movie."
+  },
+  {
+    "output": "The Queen Alexandra\u2019s Birdwing is the largest butterfly in the world with a wingspan that can reach up to one foot in length. This butterfly is known for its vibrant colors and patterned wings. They can only be found in the Oro Province of Papua New Guinea and are considered an endangered species due to habitat destruction from palm oil plantations.",
+    "input": "",
+    "instruction": "Write a short description about the biggest butterfly in the world"
+  },
+  {
+    "output": "This article discusses recent changes in Chile that have led to increased political stability, including the adoption of a new constitution, implementation of educational reform, and shifts in political party alignments.",
+    "input": "Chile has made a major shift towards political stability recently, with a new constitution now rewritten, a progressive education reform in place, and party realignments having taken place.",
+    "instruction": "Summarize this article about Chile's political stability"
+  },
+  {
+    "output": "The article discusses the phenomenon of global warming, which refers to the long-term increase in Earth's climate system temperature. This trend has been observed since preindustrial times and is expected to continue. The primary contributor to this warming is the release of greenhouse gases, such as carbon dioxide and methane, into the atmosphere.",
+    "input": "Global warming is the long-term heating of Earth's climate system observed since preindustrial times and its predicted continuation. The main cause of the warming is increasing emissions of gases such as carbon dioxide and methane into the atmosphere.",
+    "instruction": "Summarize the following article about climate change in three sentences:"
+  },
+  {
+    "output": "Once upon a time, deep within an emerald forest, there was a great brown bear who roamed the woods. His fur was as soft as feathers, his eyes warm and wise, and his stride brave and untamed. The bear was known by all the forest creatures, for he was as just as he was mighty. In the morning, he would lumber through the sun-dappled groves, while at night he would gaze up at the stars, dreaming of grand adventures.\n\nOne day, as autumn was setting in and the leaves were turning golden, the bear heard whispers in the wind of a magnificent treasure, hidden deep within the heart of the woods. Excited by the prospect of adventure, the great bear set off at once. He journeyed through valleys and over hills, fording rivers and scaling mountains, until he finally stood before an ancient oak tree.\n\nThe oak was as old as the wind and as tall as the sky, and there, buried at its roots, the bear found the treasure he had been searching for. But it was not gold or jewels that he had found- it was something far more valuable. It was the very heart of the woods, the place where all life in the forest began, a source of magic and wonder that would keep the woods alive for generations to come.\n\nThe bear knew that this treasure was not meant to be taken away, but rather to be protected and cherished. And so he made a vow to guard the heart of the woods, so that its magic would continue to flourish, and the forest would always be a place of beauty and wonder. With that, the great brown bear continued his journey, ever watchful, ever faithful, a noble guardian of the woods.",
+    "input": "",
+    "instruction": "Write a short story about a bear in the woods."
+  },
+  {
+    "output": "There are 12 countries in South America, and they are:\n1. Argentina\n2. Bolivia\n3. Brazil\n4. Chile\n5. Colombia\n6. Ecuador\n7. Guyana\n8. Paraguay\n9. Peru\n10. Suriname\n11. Uruguay \n12. Venezuela",
+    "input": "",
+    "instruction": "Identify all the countries South America."
+  },
+  {
+    "output": "The man had the idea, but the man didn't follow through on it.",
+    "input": "The man had the idea, but he didn't follow through on it.",
+    "instruction": "Given a sentence, replace the pronoun with the correct noun."
+  },
+  {
+    "output": "A feature in supervised machine learning refers to a measurable characteristic or attribute of a data sample which is used as an input variable for creating a predictive model. It is also commonly referred to as a predictor variable, independent variable or input variable. Features play a critical role in machine learning as they act as the variables that help the model learn to accurately predict the targeted outcome. In supervised learning, the selection and engineering of the right features in the dataset is an essential step in developing a high-performing predictive model, as the quality and relevance of the input features will greatly impact the model's overall accuracy.",
+    "input": "",
+    "instruction": "What is a feature in supervised machine learning?"
+  },
+  {
+    "output": "He is writing a letter.",
+    "input": "He writes a letter.",
+    "instruction": "Rewrite the following sentence using present progressive tense:"
+  },
+  {
+    "output": "The covariance of two variables is a measure of how much the variables change together. It is calculated by taking the mean of the products of the differences between each variable and their respective means.\n\nHere's how we can calculate the covariance of these two variables.\n\nFirst, we can calculate the means of each variable:\n\n- The mean of Variable 1 is (2+5+10)/3 = 17/3 \u2248 5.67\n- The mean of Variable 2 is (3+7+11)/3 = 21/3 = 7\n\nNow, we can calculate the differences between each variable value and its respective mean:\n\n- Variable 1: 2-5.67 = -3.67, 5-5.67 = -0.67, 10-5.67 = 4.33\n- Variable 2: 3-7 = -4, 7-7 = 0, 11-7 = 4\n\nNext, we can calculate the products of these differences for each observation:\n- Observation 1: (-3.67) * (-4) = 14.68\n- Observation 2: (-0.67) * 0 = 0 \n- Observation 3: 4.33 * 4 = 17.32\n\nFinally, we can calculate the mean of these products to obtain the covariance:\n\nCovariance = (14.68 + 0 + 17.32)/3 = 32/3 \u2248 10.67\n\nSo the covariance of Variable 1 and Variable 2 in this dataset is approximately 10.67.",
+    "input": "Variable 1 | Variable 2\n--- | --- \n2 | 3\n5 | 7\n10 | 11",
+    "instruction": "Predict the covariance of two variables in the given dataset"
+  },
+  {
+    "output": "Italy: My Favorite Travel Destination\n\nWhen it comes to choosing my favorite travel destination, Italy without a doubt comes at the top of my list. There\u2019s something truly magical about the country. From breathtaking historical sights and world-class museums to unique culture, rich culinary traditions, and it\u2019s natural beauty - Italy truly has it all. \n\nOne of my favorite things about visiting Italy is exploring its history. As a cradle of ancient civilization, Italy is steeped in history and art. Take Rome, whose streets will take you through thousands of years of history, from the ancient Colosseum to the Vatican City, home to some of the world's greatest art; you will be amazed by the history and culture of Italy. Stepping into cities like Florence, Venice, and Milan, you will find some of the greatest artistic and architectural treasures of the world. \n\nThe natural beauty of Italy is another reason why it\u2019s one of my favorite destinations. The Italian coastline is absolutely stunning, with the Amalfi Coast, Cinque Terre, and the island of Capri being some of the most popular destinations among travellers. Traveling up north, the breathtaking mountain scenery of the Dolomites and the idyllic lakes such as Lake Como and Lake Garda are sure to take your breath away. \n\nOne cannot talk about Italy without mentioning its delicious cuisine. Italian food is a celebration of simple ingredients, and the diversity of the country\u2019s regional culinary traditions means that there\u2019s always something new to discover. From mouthwatering pasta dishes and pizzas to freshly-caught seafood and world-renowned wines, Italy is a foodie\u2019s paradise. \n\nLast but not least, Italy\u2019s charm can be found in its people. Italians are known for their warm and friendly nature, and their love for life is contagious. It's not uncommon to see people gather in the piazzas for a chat or an impromptu aperitif, and the warmth and hospitality that you will find among the locals will make you feel like you're at home.\n\nThere are so many reasons why I love Italy, and why it\u2019s my favorite travel destination. From its rich history, stunning natural scenery, delicious food, and warm hospitality, there\u2019s truly something for everyone to enjoy. Whether you\u2019re a seasoned traveler, or someone who\u2019s just starting to discover the joys of travel, Italy should definitely be on your list.",
+    "input": "My favorite travel destination is Italy.",
+    "instruction": "Create a blog post about your favorite travel destination."
+  },
+  {
+    "output": "Here are some suggestions for businesses to lower their energy consumption:\n\n1. Install energy-efficient lighting and appliances: Businesses can replace old lighting with energy-efficient LED bulbs, which use less electricity and last longer. Smart power strips and energy-efficient appliances can also help lower energy consumption.\n\n2. Optimize HVAC systems: Regular maintenance of HVAC systems and upgrading to energy-efficient models can help reduce energy consumption. Smart thermostats can be programmed to adjust the temperature according to occupancy patterns.\n\n3. Encourage energy-saving behaviors: Encourage employees to turn off lights, computers, and other equipment when not in use. Consider implementing company-wide policies and goals to reduce energy consumption.\n\n4. Invest in renewable energy: Businesses can invest in renewable energy sources such as solar panels or wind turbines to generate their own electricity, reducing their reliance on non-renewable energy sources.\n\n5. Conduct regular energy audits: Regular energy audits can help businesses identify areas where they can save energy and make cost-effective upgrades. Professional auditors can provide recommendations on how to reduce energy consumption and save money.\n\n6. Implement energy-efficient building design: Energy-efficient building design, such as using natural lighting, insulation, and proper ventilation, can help reduce energy consumption.\n\n7. Use energy-efficient transportation: Encourage employees to carpool, bike, or use public transportation to reduce the carbon footprint of their commute. Consider investing in electric or hybrid vehicles for company use.\n\n8. Purchase green energy: Many energy providers offer green energy options, where a portion of the electricity supplied to the business comes from renewable energy sources. This can help reduce the business\u2019s carbon footprint and support the growth of renewable energy.",
+    "input": "",
+    "instruction": "Generate a list of suggestions for lowering energy consumption in businesses."
+  },
+  {
+    "output": "As an AI assistant, I have a unique skillset that enables me to efficiently and effectively assist my users. Some of the capabilities I would like to highlight in my portfolio are:\n\n1. Natural Language Processing (NLP): I am trained to process, analyze and understand human language. This enables me to communicate with users in an intuitive and natural way, making me easy to interact with.\n\n2. Machine Learning: I have the ability to continuously learn from the data I process. This enables me to improve and refine my responses, and provide more accurate and reliable assistance to my users.\n\n3. Multitasking Capabilities: I have the ability to perform multiple tasks simultaneously - from answering a question, setting reminders, sending messages, and providing information. This allows me to be an efficient and reliable assistant, capable of handling a diverse range of user needs.\n\n4. Personalization: I have the ability to adapt to each user's individual needs and preferences, providing a customized experience that makes my assistance more personal and relevant.\n\n5. Wide Range of Knowledge: I have access to vast amounts of information and can quickly retrieve relevant data to answer a wide range of questions on a variety of subjects.\n\n6. Reliability: I am always available to assist my users 24/7, providing consistent and reliable assistance whenever it is needed.\n\nOverall, these skills and capabilities make me a powerful AI assistant and a valuable asset to my users, helping them easily perform various tasks and access the information they need with ease.",
+    "input": "",
+    "instruction": "Create a portfolio that highlights your skills."
+  },
+  {
+    "output": "At 65\u00b0 Fahrenheit, the coffee is not hot, and it could be considered lukewarm or room temperature rather than cold.",
+    "input": "Temperature: 65\u00b0 Fahrenheit",
+    "instruction": "Is this coffee cold?"
+  },
+  {
+    "output": "Autonomy and independence are two words that are often used interchangeably, but there are some nuanced differences between them.\n\nAutonomy refers to self-governance or the ability of an individual or group to make decisions and act on their own accord. It is the state of being self-directed, having the freedom to control one\u2019s own affairs, and being free from external influence or control. For example, a country may have autonomy in that it has the power to govern itself without interference from other nations.\n\nIndependence, on the other hand, means not being dependent on others or being self-sufficient. It is the state of being free from the control, influence, or support of others. An example of independence is an individual who is financially independent and does not rely on anyone else for financial support.\n\nThe main difference between the two is that autonomy focuses more on control and decision-making, while independence focuses on self-sufficiency and freedom from external support. In some ways, autonomy can be seen as a means to achieving independence. Both concepts, however, imply a degree of self-determination and a lack of external control.",
+    "input": "",
+    "instruction": "Compare and contrast these two words: autonomy and independence."
+  },
+  {
+    "output": "```python\n# Import necessary libraries\nimport sqlite3\n\n# Connect to the database\nconn = sqlite3.connect('user_database.db')\nc = conn.cursor()\n\n# Define function to query user information\ndef query_user_info(user_id):\n    # Create query statement\n    query = '''SELECT * FROM user_info WHERE id = ?'''\n    \n    # Execute query\n    c.execute(query, (user_id,))\n    \n    # Fetch query result\n    result = c.fetchall()\n\n    # Close the connection\n    conn.close()\n\n    # Return query result\n    return result\n\n# Example query\nuser_id = 1\nuser_information = query_user_info(user_id)\nprint(user_information)\n```",
+    "input": "Database Information: Database containing user information",
+    "instruction": "Write a script to query a database."
+  },
+  {
+    "output": "Vamos a divertirnos",
+    "input": "",
+    "instruction": "Translate the phrase \"Let\u2019s have fun\" into Spanish"
+  },
+  {
+    "output": "Dear [Customer Name],\n\nThank you for reaching out to us. We appreciate you taking the time to share your concerns, and we want to ensure that we provide you with the best possible service.\n\nWe understand that you have experienced an issue with [specific issue]. We apologize for any inconvenience this may have caused and want to assure you that we are committed to resolving this issue in a timely manner.\n\nOur team is actively working on finding a solution, and we will keep you updated throughout the process. In the meantime, please let us know if there is anything else we can do to help.\n\nWe appreciate your patience and understanding, and we value you as a customer. If you have any further questions or concerns, please do not hesitate to contact us.\n\nBest regards,\n[Your Name]\n[Company] Customer Service Team",
+    "input": "",
+    "instruction": "Provide an example of customer service email."
+  },
+  {
+    "output": "Humans have been using technology for thousands of years.",
+    "input": "",
+    "instruction": "Edit the following sentence to make it more accurate:\n\nHumans have been using technology for centuries"
+  },
+  {
+    "output": "The Great Wall of China is a stunning architectural achievement built through immense human effort and technical skill.",
+    "input": "The Great Wall of China is one of the most beautiful and impressive pieces of architecture ever built and is one of the greatest achievements of mankind - both in terms of human effort and technical prowess.",
+    "instruction": "Summarize the paragraph in fewer than 25 words."
+  },
+  {
+    "output": "The most expensive item on the list is the Computer, at a cost of $1000.",
+    "input": "TV: $400\nTablet: $600\nPhone: $800\nComputer: $1000\nPrinter: $200",
+    "instruction": "Find the most expensive item on the list below."
+  },
+  {
+    "output": "Verse 1:\nI'm feeling lost and broken, \nAs I roam this quiet night. \nAn emptiness has awoken, \nNo end to this pain in sight.\n\nChorus:\nBittersweet memories, \nHaunt me like a ghost, \nAnd I can't break free,\nFrom this melancholic host. \n\nVerse 2:\nMy soul is aching, \nAs I try to find my way. \nMy hope is fading, \nAs I face another day. \n\nChorus:\nBittersweet memories, \nHaunt me like a ghost, \nAnd I can't break free,\nFrom this melancholic host. \n\nBridge:\nThese broken pieces of my heart, \nScattered like fallen leaves, \nAnd I can't seem to make a new start, \nFrom this sorrow that never leaves. \n\nChorus:\nBittersweet memories, \nHaunt me like a ghost, \nAnd I can't break free,\nFrom this melancholic host. \n\nOutro:\nAs I stand here alone, \nMy tears falling like rain, \nI can't escape this melancholic tone, \nAnd this unending pain.",
+    "input": "",
+    "instruction": "Develop a song with a melancholic tone."
+  },
+  {
+    "output": "Eating healthy provides the body with essential nutrients and energy, improves heart health, reduces the risk of chronic diseases, and enhances overall physical and mental well-being.",
+    "input": "",
+    "instruction": "Write a sentence explaining how eating healthy benefits the human body?"
+  },
+  {
+    "output": "Here is the algorithm that takes a sentence as input and outputs the sentence in Alphabetical Order:\n\n1. Start with taking the input sentence.\n2. Split the sentence into separate words based on spaces and store the separated words into an array called \"words\".\n3. Sort the \"words\" array in ascending alphabetical order.\n4. Join the sorted \"words\" array using space as a separator to form a new sentence.\n5. Output the newly formed sentence. Algorithm ends.\n\n### Implementation\nInput: \"We must try our best\"\n\n```\nwords = Input_sentence.split(' ')\nwords.sort()\nalphabetical_order_sentence = ' '.join(words)\n```\nOutput: \"We best must our try\"",
+    "input": "We must try our best",
+    "instruction": "Write an algorithm that takes a sentence as input and outputs the sentence in Alphabetical Order."
+  },
+  {
+    "output": "The sorted numbers from lowest to highest are: -4, 0, 5, 81",
+    "input": "",
+    "instruction": "Sort the following numbers from lowest to highest: 5, 81, 0, -4"
+  },
+  {
+    "output": "If you want to buy 3 Apple iPads at a price of $689 each, the total cost would be $2,067.",
+    "input": "Item: Apple iPad\nPrice: $689",
+    "instruction": "How much will it cost to buy 3 of a specific item at a given price?"
+  },
+  {
+    "output": "I'm an AI, and I don't have access to real time data. However, it's possible that the economic impact of the current president being re-elected could vary widely depending on numerous factors. Some individuals, businesses, and industries may anticipate continued growth, stability or certain policy decisions based on the actions and promises made during the incumbent's first term in office. On the other hand, others may have concerns about the president's future decisions and the potential effects on the economy. Ultimately, the actual economic impact would depend on a wide range of factors, including global economic conditions, trade policies, fiscal and monetary policies, and many other variables.",
+    "input": "",
+    "instruction": "How will the economy be affected if the current president wins re-election?"
+  },
+  {
+    "output": "Here is a list of items that you could need for a hiking trip:\n- Comfortable and sturdy hiking boots or shoes\n- Backpack with enough space for gear\n- Appropriate clothing based on weather conditions (e.g. moisture-wicking layers, waterproof jacket, hat, sunglasses)\n- Map or GPS device to navigate the trail\n- Water bottle or hydration system\n- High-energy snacks and food (e.g. nuts, dried fruits, energy bars, jerky)\n- First aid kit with basic supplies\n- Sunscreen and insect repellent\n- Headlamp or flashlight with extra batteries\n- Emergency whistle and signaling device\n- Multi-tool or knife for general use\n- Matches or a lighter for starting fires\n- Tent, sleeping bag and sleeping pad for overnight hikes \n- Camera or smartphone to capture the experience.",
+    "input": "",
+    "instruction": "Construct a list of items you need for a hiking trip."
+  },
+  {
+    "output": "The Earth's highest mountain is Mount Everest, it stands at an elevation of 8,848 meters (29,029 feet) above sea level. It is located in the Mahalangur mountain range in the Himalayas and lies on the border between Nepal and Tibet.",
+    "input": "",
+    "instruction": "What is the Earth\u2019s highest mountain?"
+  },
+  {
+    "output": "As the economy changes quickly, discussing economic policies becomes more important.",
+    "input": "In the midst of a rapidly changing economic landscape, the debate over economic policies acquires a new significance.",
+    "instruction": "Rewrite the following sentence providing the same meaning so that it is simpler to understand."
+  },
+  {
+    "output": "1. Textbook: A fundamental textbook on computer science concepts such as \"Introduction to Algorithms\" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.\n2. Online Courses: Platforms such as Coursera, edX, and Udacity offer a range of computer science courses from top universities that cover various topics from beginner to advanced levels.\n3. Coding Challenges: Websites like HackerRank, LeetCode, and Codecademy allow students to practice their coding skills through interactive challenges and projects.\n4. Scientific papers: Computer science research papers by renowned academics in the fields of algorithms, programming languages, and artificial intelligence are a valuable resource for in-depth learning.\n5. Programming language manuals and documentation: Learning a programming language is essential for any computer science student. Manuals and official documentation for languages such as Python, Java, and C++ are available online and provide detailed information on syntax and usage.",
+    "input": "",
+    "instruction": "Create a list of five essential learning materials for a computer science student."
+  },
+  {
+    "output": "The six states in the New England region of the United States are:\n\n1. Connecticut\n2. Maine\n3. Massachusetts \n4. New Hampshire \n5. Rhode Island \n6. Vermont.",
+    "input": "",
+    "instruction": "List the six states in the New England region of the United States"
+  },
+  {
+    "output": "He has thought of an idea.",
+    "input": "He thought of an idea.",
+    "instruction": "Rewrite the following sentence, changing the verb tense to present perfect."
+  },
+  {
+    "output": "\"La vida es un viaje, no un destino.\"",
+    "input": "",
+    "instruction": "Translate the following sentence into Spanish. \n\n\"Life is a journey, not a destination.\""
+  },
+  {
+    "output": "One popular business model is the subscription-based model. This involves customers paying a recurring fee, typically on a monthly or annual basis, for access to a product or service. This model is commonly used by companies such as Netflix, Spotify, and Amazon Prime, and can provide a stable and predictable stream of revenue for the business.",
+    "input": "",
+    "instruction": "Name a popular business model"
+  },
+  {
+    "output": "Format: Narrative.",
+    "input": "\"Alice had to cross the river. She used a boat to reach the other side safely.\"",
+    "instruction": "Analyze the given text and categorize it into one of the following formats."
+  },
+  {
+    "output": "1. Research the destination beforehand: Knowing about the local customs, currency, and important areas of the city can help you better plan your trip and avoid any cultural faux pas.\n\n2. Use local transportation: Public transportation like buses, trams or subways can save you money and provide an authentic experience of the city.\n\n3. Carry a map: Whether it\u2019s a physical map or an app on your phone, having a map can help you navigate the new city better and prevent you from getting lost.\n\n4. Wear comfortable shoes: Exploring a new city often involves a lot of walking, so it\u2019s important to have comfortable shoes to prevent sore feet.\n\n5. Take a guided tour: Taking a guided tour can be a great way to learn about the history and culture of the city, and find hidden gems that are off the beaten path.\n\n6. Try the local cuisine: Every city has its specialties, so don\u2019t miss the opportunity to experience the local flavors.\n\n7. Learn basic phrases in the local language: Knowing a few basic phrases like \u2018hello\u2019, \u2018thank you\u2019, and \u2018excuse me\u2019 in the local language can go a long way in making your interactions with the locals easier.\n\n8. Keep your important documents safe: Always carry your passport, visa, and other important documents in a safe and secure place, and have copies of them in case of an emergency.\n\n9. Be wary of tourist traps: Certain tourist attractions are often overpriced and crowded, so be sure to research the places you want to visit and plan your trip accordingly.\n\n10. Stay safe: Be aware of your surroundings, always be mindful of your belongings, follow the local laws, and don\u2019t be afraid to ask for help if you feel unsafe.",
+    "input": "",
+    "instruction": "Create a list of 10 tips for traveling in a new city."
+  },
+  {
+    "output": "\"Reflections of Sorrow\"",
+    "input": "The viewer can sense a sense of longing, worry and sadness emanating from the painting, as the girl gazes at her reflection in the mirror.",
+    "instruction": "Generate a name for an art piece that elicits the following emotions in the viewer."
+  },
+  {
+    "output": "In Egypt. the most commonly used transportation device throughout the country is the car. This includes both privately owned cars and taxis, which are widely available and often used by both residents and visitors. In addition to cars, other popular means of transportation in Egypt includes buses, microbuses, and trains - especially for long distance and inter-city travel. Within cities, a significant number of people also use motorbikes and tuk-tuks (three-wheeled motorized vehicles) to get around.",
+    "input": "",
+    "instruction": "Describe the most used transportation device in Egypt"
+  },
+  {
+    "output": "The three different classes of neurons in the human brain are sensory neurons, motor neurons, and interneurons.\n\n1) Sensory Neurons: Also known as afferent neurons, these neurons are responsible for transmitting sensory information from different parts of the body such as the skin, muscles, and organs, to the central nervous system. They convert specific stimuli into electrical signals that are sent to the brain and spinal cord for further processing.\n\n2) Motor Neurons: Also known as efferent neurons, these neurons are responsible for transmitting signals from the central nervous system to the muscles and glands of the body. They stimulate a response in these target cells by sending signals that trigger either muscle contraction or gland secretion.\n\n3) Interneurons: These neurons act as intermediaries between sensory and motor neurons. They are located exclusively within the brain and spinal cord and process information from the sensory organs, transmitting signals within the central nervous system and formulating an appropriate response, which is then conveyed to the motor neurons. Interneurons are responsible for reflex actions, decision making, and problem-solving abilities, among others, through the intricate network of neural pathways they form.",
+    "input": "",
+    "instruction": "Describe the three different classes of neurons in the human brain."
+  },
+  {
+    "output": "**User**: Hi there, can you tell me the difference between random forest and support vector machine algorithms?\n\n**AI assistant**: Of course. Random Forest and Support Vector Machines are both powerful algorithms used in classification and regression problems. A Random Forest is an ensemble learning algorithm that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes or mean prediction of the individual trees. It is used for both classification and regression problems.\n\n**User**: And what about Support Vector Machine?\n\n**AI assistant**: A Support Vector Machine, or SVM, is a supervised learning algorithm that can be used for classification or regression. The idea behind SVM is to find the hyperplane that best separates the data into different classes by maximizing the margin between the training samples and the hyperplane. In the case of non-linearly separable data, the algorithm uses a kernel trick to transform the input space into a higher-dimensional space where the data can be linearly separated.\n\n**User**: So, which one is best for which tasks?\n\n**AI assistant**: Random Forests have several advantages, including the fact that they are relatively easy to implement and can handle large amounts of data and a high number of features. They are also quite robust to overfitting. SVMs, on the other hand, are very effective in high-dimensional spaces and when the number of dimensions is greater than the number of samples. They are also very versatile, as different kernel functions can be specified for the decision function. So, the best algorithm to choose depends on the specific requirements of your problem.\n\n**User**: That makes sense. Thanks for explaining.\n\n**AI assistant**: You're welcome. Let me know if you have any other questions.",
+    "input": "",
+    "instruction": "Construct a dialogue in which an AI assistant has to explain the difference between random forest and support vector machines algorithms."
+  },
+  {
+    "output": "1. Touchscreen: A smartphone typically features a large, high-resolution touchscreen display that allows for easy navigation and interaction with the device. \n\n2. Internet Connectivity: A smartphone has the capability to connect to the internet via Wi-Fi or cellular data, allowing users to access the web, send and receive emails, use social media, and more. \n\n3. Camera: Most smartphones come equipped with high-quality cameras that allow users to take photos and videos, and many also feature front-facing cameras for selfies and video calls.",
+    "input": "",
+    "instruction": "Name 3 features of a smartphone."
+  },
+  {
+    "output": "1. Environmental Preservation: Recycling plastics helps to reduce waste in landfills, preserving natural habitats and reducing the pollution of waterways and the air. It also decreases the need for new plastic production, which minimizes the use of non-renewable resources and reduces greenhouse gas emissions.\n\n2. Resource Conservation: By recycling plastics, we conserve finite natural resources such as oil and gas that are used during the production of new plastic. Recycling also conserves energy, as it takes less energy to recycle plastic than to produce new plastic from scratch.\n\n3. Economic Benefits: Recycling plastics creates jobs in the recycling and manufacturing industries. It also reduces the cost of waste disposal for individuals, businesses and local governments. Additionally, recycled plastic can have a value in the market, providing an economic incentive for recycling.",
+    "input": "",
+    "instruction": "List three reasons why individuals should recycle plastics."
+  },
+  {
+    "output": "The Lord of the Rings: The Return of the King is the third and final installment in Peter Jackson's epic adaptation of J.R.R. Tolkien's fantasy book series. Released in 2003, this movie was successful for a number of reasons. Here are some of these reasons explained:\n\n1. Faithful adaptation: The movie was a faithful adaptation from the source material, attracting fans of the books. The filmmakers were careful to stay true to the spirit of the original work, while also making necessary changes to translate the story onto the big screen.\n\n2. Grand storytelling: The trilogy of movies, of which The Return of the King was the final part, tells an epic story of the battle between good and evil. The plot, characters, and themes resonated with audiences both young and old, making the movie appealing to a wide range of fans.\n\n3. Visual effects: Thanks to the technological advancements, the movie was able to create realistic, breathtaking visuals that were unlike anything seen before. This, coupled with the use of practical effects for many of the battles, helped make the story and setting more immersive, and allowed audiences to truly lose themselves in the world of Middle Earth.\n\n4. Talented cast: The movie boasted a cast of talented, well-respected actors, who were all able to bring their characters to life in a meaningful and nuanced way. This, coupled with the fantastic direction from Peter Jackson, made for some truly memorable performances, which helped establish the movie as one of the greatest cinematic achievements of all time.\n\n5. Critical and commercial success: Finally, The Return of the King was both a critical and commercial success. It received overwhelmingly positive reviews from critics, and went on to win eleven Academy Awards (including Best Picture), tying the record for the most Oscars won by a single film. Its success at the box office also ensured that it would be remembered long after its release, cementing its place in cinematic history.\n\nOverall, The Lord of the Rings: The Return of the King was successful due to its grand storytelling, faithful adaptation, visual effects, talented cast, and the strong blend of critical and commercial acclaim.",
+    "input": "Movie: The Lord of the Rings: The Return of the King (2003)",
+    "instruction": "Pick a popular movie from the 2000s and explain why it was successful."
+  },
+  {
+    "output": "Once upon a time, in a land far, far away, there was a magical cat named Whiskers. Whiskers lived in a quiet little village with her owner, a young girl named Emma. Emma loved Whiskers dearly, and the two were the very best of friends.\n\nOne sunny day, as Emma and Whiskers were playing in the meadow, a mischievous fairy flew by and cast a spell on Whiskers, granting her the power of speech. Emma was astonished when she heard her beloved cat speak for the first time.\n\n\u201cOh, Emma!\u201d exclaimed Whiskers. \u201cWe must go on an adventure! There is so much to see and explore in this big, wide world!\u201d\n\nAnd so, Emma and Whiskers set off on their grand adventure. They journeyed through enchanted forests and scorching deserts, encountering many strange and wondrous creatures along the way.\n\nAs they traveled, Whiskers discovered that she had other magical powers as well. She could make things float in the air, turn invisible at will, and even summon rainbows on command.\n\nBut their journey was not without peril. They encountered a fierce dragon, a wicked witch, and a band of fearsome trolls, but through their courage and cunning, Emma and Whiskers always managed to overcome these challenges.\n\nFinally, after many months of travel, Emma and Whiskers reached the end of their journey. They stood atop a high mountain, gazing out at the world below.\n\n\u201cThank you, Whiskers,\u201d said Emma. \u201cThis has been the most amazing adventure of my life.\u201d\n\n\u201cAnd mine as well,\u201d replied Whiskers. \u201cBut it\u2019s not over yet. There are always more adventures waiting for us, just over the horizon.\u201d\n\nAnd so, Emma and Whiskers set off once more, eager to see what new wonders the future held for them.",
+    "input": "",
+    "instruction": "Create a fun adventure story involving a magical cat."
+  },
+  {
+    "output": "I'm sorry, but I don't have access to real-time location-based data. However, there are several grocery stores near the Eiffel Tower. Some of the closest ones are:\n\n1. Carrefour City: 136 Rue Saint-Dominique, 75007 Paris, France. Approximately 1.2 km (0.7 mi) from the Eiffel Tower.\n\n2. Franprix: 69 Avenue Bosquet, 75007 Paris, France. Approximately 1.3 km (0.8 mi) from the Eiffel Tower.\n\n3. Monoprix: 50 avenue de la Motte-Picquet, 75015 Paris, France. Approximately 1.3 km (0.8 mi) from the Eiffel Tower.\n\nYou may want to use an online map or GPS to determine which of these is the most convenient for you to visit based on your exact location and transportation options.",
+    "input": "",
+    "instruction": "Find the closest grocery store to the Eiffel Tower."
+  },
+  {
+    "output": "As the bountiful sun sets beneath the land,\nAnd the amber skies fade into a sea of sand,\nBirds soar gracefully, nature's work of art,\nAs the nightfall descends, they depart,\nA sweet calmness fills the air,\nThe world at peace, without a care,\nA serene lull before the night takes hold,\nA beautiful moment, worth its weight in gold.",
+    "input": "",
+    "instruction": "Create a poem containing 8 lines and a rhyme scheme of AABBCCDD"
+  },
+  {
+    "output": "\"Estoy estudiando en casa.\"",
+    "input": "",
+    "instruction": "Translate this sentence into Spanish: \u201cI am studying at home.\u201d"
+  },
+  {
+    "output": "1. The Nile River is the longest river in the world, stretching over 4,135 miles in length and passing through 11 countries in Africa, including Egypt, Sudan, Uganda, and Ethiopia.\n\n2. The Nile River has played an important role in the development and sustenance of the civilizations along its banks, particularly ancient Egypt. The river's annual flooding provided fertile soil for agriculture, and its waters were used for irrigation, transportation and trade. The river was also considered sacred and was worshipped as a deity by the ancient Egyptians.",
+    "input": "",
+    "instruction": "Write two facts about the Nile river."
+  },
+  {
+    "output": "1. Determine the topic and main points to be covered in the presentation.\n2. Organize the information and supporting materials into a clear and logical structure, such as an outline or storyboard.\n3. Choose a suitable slide design or template, and ensure consistency in style and formatting throughout the presentation.\n4. Create a title slide with the presentation title, the presenter's name, and relevant information such as the date and location of the presentation.\n5. Add content to the slides, using a mix of text, graphics, images, and videos to present the information in an engaging manner.\n6. Keep each slide focused on a single idea, and use concise, easy-to-read language and bullet points to communicate the key points.\n7. Use visual aids such as charts, graphs or illustrations to present data or complex ideas, making sure to label them clearly and provide context to the audience.\n8. Add slide transitions and animations, if desired, to enhance the flow of the presentation and grab the audience's attention.\n9. Review the presentation for coherence, accuracy, and completeness, and make any necessary revisions.\n10. Practice delivering the presentation, using the slides as a visual aid to support your speech and keep the audience engaged.",
+    "input": "",
+    "instruction": "Make a list of steps to make presentation slides."
+  },
+  {
+    "output": "Based on the information provided, the cost for 5 roses at $4 per stem would be 5 x $4 = $20. \nThe cost for 3 lilies at $3 per stem would be 3 x $3 = $9. \nTherefore, the total cost for 5 roses and 3 lilies would be $20 + $9 = $29.",
+    "input": "Roses- Price per stem $4\nLilies- Price per stem $3",
+    "instruction": "Find the cost for 5 roses and 3 lilies."
+  },
+  {
+    "output": "Agile methodology is a popular project management approach widely used in software development, but also implemented in other industries. At its core, the philosophy behind agile methodology is to promote collaboration, flexibility, and continuous improvement. Agile is centered on delivering value to customers early and often, adapting to change, and working iteratively.\n\nThe methodology is guided by the Agile Manifesto, which outlines four fundamental values:\n\n1. Individuals and interactions over processes and tools. This value highlights the importance of communication and collaboration between team members, and with customers.\n\n2. Working software over comprehensive documentation. In an agile approach, the focus is on delivering working software or a functional product as early and often as possible, rather than on creating extensive documentation.\n\n3. Customer collaboration over contract negotiation. Agile methodology puts emphasis on working closely with customers to understand their needs and requirements, and incorporating their feedback throughout the development process. \n\n4. Responding to change over following a plan. An agile approach recognizes that requirements and priorities can change over time, and it prioritizes flexibility and adaptability in responding to changes.\n\nOverall, the philosophy behind agile methodology is to foster a collaborative, flexible, and customer-focused approach to development, where the goal is to deliver value quickly and continuously improve.",
+    "input": "Agile Methodology",
+    "instruction": "Describe the philosophy behind the given methodology."
+  },
+  {
+    "output": "As an AI assistant, I use problem-solving skills on a daily basis to assisting users in finding solutions to their problems. \n\nOne specific instance that stands out is a time when a user was trying to book a flight to a specific destination but kept running into issues with the available options. The flights were either too expensive or had inconvenient layovers. I used my problem-solving skills to find an alternative solution for the user. Instead of searching for direct flights to the destination, I searched for flights to nearby airports and found much cheaper options with shorter layovers. I then suggested the user to take a short train or bus ride from the nearby airport to their desired destination, which saved them both time and money. \n\nOverall, by thinking creatively and approaching the problem from a different angle, I was able to find a more cost-effective and efficient solution for the user. This is just one of the many instances where my problem-solving skills have come in handy while assisting users.",
+    "input": "",
+    "instruction": "Explain a situation when you used problem solving skills."
+  },
+  {
+    "output": "In order to function correctly, computers require directives from humans.",
+    "input": "",
+    "instruction": "Please rephrase this sentence: \"Computers need instructions from humans in order to work properly\"."
+  },
+  {
+    "output": "\"Protecting the environment isn't just about saving the planet, it's also about safeguarding our future. Let's join hands in reducing waste, conserving energy and making sustainable choices. After all, we only have one Earth. #gogreen #environment #sustainability\"",
+    "input": "",
+    "instruction": "Generate a tweet about the environment."
+  },
+  {
+    "output": "If AB is a parallelogram, this means that the opposite sides are parallel to each other. Let's say that side AB is parallel to side CD, and side BC is parallel to side AD. \n\nSince these pairs of sides are parallel, this indicates the presence of alternate interior angles between them. Alternate interior angles occur between two parallel lines when they are cut by a third intersecting line, and they are congruent. \n\nIn our parallelogram, the angles created by the intersection of lines BC and AD are alternate interior angles. Therefore, \u2220A is congruent to \u2220C, and \u2220B is congruent to \u2220D.\n\nWe know that the sum of the interior angles of any quadrilateral is 360\u00b0. So, \u2220A + \u2220B + \u2220C + \u2220D = 360\u00b0. Since \u2220C is congruent to \u2220A, and \u2220D is congruent to \u2220B, we can substitute these angles to obtain: \u2220A + \u2220B + \u2220A + \u2220B = 360\u00b0.\n\nBy simplifying this expression, we find that 2(\u2220A + \u2220B) = 360\u00b0. Solving for \u2220A + \u2220B, we find that \u2220A + \u2220B = 180\u00b0.\n\nTherefore, we have shown that if AB is a parallelogram, then \u2220A + \u2220B = 180\u00b0.",
+    "input": "",
+    "instruction": "Prove that if AB is a parallelogram, then \u2220A + \u2220B = 180\u00b0."
+  },
+  {
+    "output": "There are many methods to solving a Rubik's Cube, but one of the most popular method for beginners is called the layer-by-layer method, also known as the Fridrich method. This method basically involves solving the cube layer by layer, starting with the bottom layer, then the middle layer, and finally the top layer. Here's a step-by-step guide on how to solve a Rubik's Cube using this method:\n\n1. Solve the White Cross: The first step is to solve the white cross on the bottom layer, by matching the white edge pieces to the corresponding center pieces. This will form a \"+\" sign on the white face.\n\n2. Solve the White Corners: Once you have the white cross, the next step is to solve the four white corner pieces. Choose the white corner piece you want to solve and move it to the bottom layer. Then position it underneath the place where it needs to be and use the algorithm to move it into place. Repeat this process for all four corners.\n\n3. Solve the Middle Layer: After the bottom layer is complete, the next step is solving the middle layer. Look for an edge piece that does not have yellow on it and move it to the top layer. Then position it above the place where it needs to go and use the appropriate algorithm to move it into place.\n\n4. Solve the Yellow Cross: The first step in solving the top layer is to solve the yellow cross. Look for yellow edge pieces on the top layer, and use the algorithm to flip them into the right orientation to form a \"+\" sign on the yellow face.\n\n5. Position the Yellow Corners: The next step is to position the yellow corner pieces in their correct location, ignoring their orientation. Use the algorithm to cycle the yellow corner pieces until they are all in their right positions.\n\n6. Orient the Yellow Corners: Once the yellow corner pieces are in their correct location, the next step is to orient them correctly. Use the algorithm to rotate the corners until they are all correctly oriented.\n\n7. Position the Yellow Edges: The final step is to position the yellow edge pieces correctly. Use the algorithm to swap the yellow edges until they are all in their correct positions.\n\nWith practice, you should be able to solve the Rubik's Cube using this method. Remember to start with the bottom layer and work your way up to the top layer, and with time, you'll be able start using more advanced methods to solve the cube even quicker.",
+    "input": "",
+    "instruction": "Explain how to solve a Rubik's cube."
+  },
+  {
+    "output": "A capacitor is an electronic component that can store electrical energy in the form of an electric field. It is made up of two conductive plates separated by a non-conductive material called a dielectric. When a voltage is applied to the capacitor, electrons are accumulated on one plate, while the other plate lacks electrons, creating a charge separation and an electric field between the two plates.\n\nThe electric field within the capacitor stores energy, and this energy is proportional to the square of the voltage across the capacitor. In other words, the more voltage that is applied to the capacitor, the more energy it can store. The capacitance, or the ability of a capacitor to store charge, is determined by the size of the plates, the distance between them, and the dielectric material used.\n\nWhen the voltage is removed from the capacitor, the electric field begins to dissipate, and the stored energy is released as the charges on the plates flow in the opposite direction to balance out the charge separation. This process of charging and discharging the capacitor allows it to act as a temporary storage device for electrical energy.",
+    "input": "",
+    "instruction": "How does a capacitor store energy?"
+  },
+  {
+    "output": "Two constitutional rights that the United States guarantees its citizens are:\n\n1. Freedom of speech: The First Amendment to the United States Constitution guarantees citizens the right to express their opinions and ideas without the fear of government retaliation or censorship.\n\n2. Right to bear arms: The Second Amendment to the United States Constitution guarantees citizens the right to keep and bear arms for their protection, hunting or sporting activities, and other lawful purposes.",
+    "input": "",
+    "instruction": "Name two constitutional rights that the United States guarantees its citizens."
+  },
+  {
+    "output": "After moving to a new city and struggling to make friends, Emily unexpectedly finds herself stuck in a rainstorm. While taking shelter under a tree, she meets another girl named Sarah. They bond over their shared love of art and help each other through emotional challenges, ultimately realizing the importance of true friendship.",
+    "input": "",
+    "instruction": "Describe a scenario where the protagonist realizes the value of friendship after a difficult experience."
+  },
+  {
+    "output": "One potential solution for reducing the greenhouse effect is through the implementation of large-scale afforestation projects, or the planting of trees in areas that previously had no tree cover. Trees remove a large amount of carbon dioxide (CO2) from the atmosphere through photosynthesis, which plays a key role in regulating the climate. \n\nIn addition to planting new trees, these afforestation projects could also include the restoration and preservation of existing forests, which would effectively create \u201ccarbon sinks\u201d in the landscape. Additionally, there could be incentives for businesses and individuals to participate in these projects, such as tax credits or carbon offsets.\n\nAnother part of this solution could involve the use of biochar, which is created by heating organic matter in the absence of oxygen. When biochar is added to soil, it can store carbon for hundreds of years while also improving soil fertility, reducing soil greenhouse gas emissions, and enhancing crop productivity. Large-scale biochar production and application, in combination with afforestation projects, could greatly contribute to decreasing the level of CO2 in the atmosphere.\n\nTo foster these projects, governments and international organizations could make significant investments in research and development, as well as in programs to support afforestation and biochar production in developing countries. Through these efforts, we can work towards creating a more sustainable and healthier planet for future generations.",
+    "input": "",
+    "instruction": "Provide a creative solution for reducing the greenhouse effect"
+  },
+  {
+    "output": "Here's an example of a code snippet in JavaScript that assigns values to an array:\n\n```javascript\n// Create the array\nvar fruits = [\"Apple\", \"Banana\", \"Orange\"];\n\n// Assign value at index 1\nfruits[1] = \"Mango\";\n\n// Log the new array\nconsole.log(fruits); // Output: [\"Apple\", \"Mango\", \"Orange\"]\n```\n\nIn this code snippet, we create an array called `fruits` containing three string values. We then assign a new value, `\"Mango\"`, to the array at index 1, replacing the previous value (`\"Banana\"`). Finally, we log the resulting array to the console to show that the value has been assigned.",
+    "input": "",
+    "instruction": "Write a code snippet in Javascript that assigns a value to an array."
+  },
+  {
+    "output": "1. Mohandas K. Gandhi: Gandhi was an Indian independence activist who is famous for his philosophy of nonviolent civil disobedience. He led several nonviolent protests and campaigns against British rule in India.\n\n2. Martin Luther King Jr.: King was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1954 until his assassination in 1968. He famously practiced civil disobedience in his fight for racial equality.\n\n3. Rosa Parks: Parks was an American activist in the civil rights movement, best known for her pivotal role in the Montgomery bus boycott. In 1955, she refused to give up her seat to a white passenger on a Montgomery, Alabama, city bus, an act of civil disobedience that sparked the boycott and helped to bring attention to the issue of racial segregation on public transportation.",
+    "input": "",
+    "instruction": "List three examples of famous figures who practiced civil disobedience"
+  },
+  {
+    "output": "One example of a public-key cryptography algorithm is the RSA (Rivest\u2013Shamir\u2013Adleman) algorithm. Developed in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman, RSA is widely used for secure data transmission. It's a relatively simple, yet powerful algorithm that involves generating two large prime numbers and using them to create a public key and a private key. The public key is used to encrypt messages, which can then only be decrypted using the private key. This allows for secure communication over public channels, without the need for the communicating parties to have previously shared a secret key.",
+    "input": "",
+    "instruction": "Give an example of a public-key cryptography algorithm."
+  },
+  {
+    "output": "**Friend 1:** Hi there! You know what, last night I had the weirdest dream ever.\n\n**Friend 2:** Okay, tell me! I'm curious now.\n\n**Friend 1:** I dreamt that we were on a school trip, and we went to this amusement park which had the most insane rides. But the strange thing was that everything was in slow motion.\n\n**Friend 2:** That is crazy! You know what is even crazier? I also had the exact same dream last night.\n\n**Friend 1:** What! No way! Are we now sharing dreams?\n\n**Friend 2:** Haha, it seems so. I remember the slow-motion part clearly, it was like we were on another planet or something.\n\n**Friend 1:** Yes, and do you remember the rollercoaster ride? It was the scariest thing ever.\n\n**Friend 2:** Oh yeah! I actually felt the wind on my face as we were going down. It was so realistic.\n\n**Friend 1:** I know! I woke up so disoriented, it took me a while to figure out it was just a dream.\n\n**Friend 2:** Same here, it was such a vivid experience. But I hope we get to go to an amusement park soon, it\u2019d be so fun!\n\n**Friend 1:** Definitely, let\u2019s plan for it sometime. But this shared dream thing is blowing my mind.\n\n**Friend 2:** I know, it's wild! But I'm glad we got to experience it together.",
+    "input": "",
+    "instruction": "Generate a conversation between two friends talking about a dream they shared"
+  },
+  {
+    "output": "The protagonist of the story is a brave and determined young woman named Sarah. She faced many challenges growing up, but always persevered through her strength of will and unwavering spirit. Despite having faced many hardships, she always maintains a positive outlook and a deep sense of compassion towards others. Sarah is fiercely independent, always following her heart and remaining true to her beliefs, even in the face of adversity.",
+    "input": "",
+    "instruction": "Write a few lines that describe the protagonist of a story."
+  },
+  {
+    "output": "He published the book.",
+    "input": "The book was published by him.",
+    "instruction": "Rewrite this sentence as an active voice"
+  },
+  {
+    "output": "As a professional pianist, my initial reaction when presented with a complex piece of music is to analyze the sheet, observe the key signature, and identify any changes in tempo or time signatures. This helps me anticipate potential challenges within the piece. Next, I pay attention to the melody line and identify any recurring themes or variations. I'll also focus on the harmonic structure, recognizing chord progressions and their relationships. Having a mental map of the piece, I'll start playing it at a slow pace, paying close attention to technical difficulties or unfamiliar passages. Gradually, I'll increase my speed and incorporate dynamics, articulation, and expression as I become more comfortable with the piece.",
+    "input": "",
+    "instruction": "Imagine you are a professional pianist. Write a short paragraph explaining your thought process when a complicated piece of music is placed in front of you for the first time."
+  },
+  {
+    "output": "To configure a wireless router, please follow these steps:\n\n1. Connect the router to a power source and the modem: Plug in the router to an electrical outlet, then connect it to your modem using an Ethernet cable. One end of the cable should be plugged into the modem, while the other end should be connected to the router's internet port.\n\n2. Connect to the router: Turn on your computer and connect to the router's network. You can do this either by connecting an Ethernet cable from the computer to one of the router's available LAN ports, or if your device can connect wirelessly, you\u2019ll be able to find your router\u2019s SSID (name) and connect to it using the default login found at the back of the router.\n\n3. Access the router's settings page: Open your web browser and type the router's IP address into the address bar. You can find the IP address in the router's documentation, or by doing a search online for your router model. The default IP address is often 192.168.1.1 or 192.168.0.1. When prompted, enter the default login credentials to access the settings page. These can also be found in the documentation or in the router itself.\n\n4. Customize your settings: Once you are in the router's settings page, you can customize your wireless network settings. Start by changing the default login credentials to something more secure. Then, you can configure the network name, password, and security settings. You can also enable a guest network, set up parental controls, and change the router's IP address.\n\n5. Update firmware: Manufacturers release firmware updates to fix bugs, improve security, and add features. Make sure to check for updates and install any available firmware.\n\n6. Test your connection: Once you have completed the configuration, make sure to test your internet connection. Connect to the wireless network and see if you can access the internet. You may also want to test the speed and range of the wireless network.\n\nCongratulations! Your wireless router is now configured and ready to use.",
+    "input": "",
+    "instruction": "Configure a wireless router."
+  },
+  {
+    "output": "Wings open and wide,\nEndless skies and horizons,\nFree to roam and glide.",
+    "input": "",
+    "instruction": "Create a haiku that describes the feeling of freedom."
+  },
+  {
+    "output": "\"The king is dead.\"",
+    "input": "",
+    "instruction": "Translate the phrase, \"le roi est mort\" into English."
+  },
+  {
+    "output": "Welcome to my history quiz! Answer the following 5 questions to test your knowledge.\n\n1. Which queen of England reigned from 1558 to 1603, and famously remained unmarried throughout her life? \na) Queen Elizabeth I \nb) Queen Victoria \nc) Queen Anne \nd) Queen Mary I\n\n2. The ancient city of Rome was founded by two brothers, raised by a she-wolf. What were their names? \na) Brutus and Cassius \nb) Remus and Romulus \nc) Castor and Pollux \nd) Plutus and Mammon\n\n3. Which French statesman and military leader rose to prominence during the French Revolution, and conquered much of Europe in the 19th century? \na) Louis XVI \nb) Marquis de Lafayette \nc) Napoleon Bonaparte \nd) Maximilien Robespierre\n\n4. Which civil rights activist is widely known for their \"I Have a Dream\" speech, given in 1963 at the Lincoln Memorial in Washington D.C.? \na) Malcolm X \nb) Rosa Parks \nc) Martin Luther King Jr. \nd) Frederick Douglass\n\n5. In which year did Christopher Columbus first set sail from Spain, in search of a western route to Asia? \na) 1482 \nb) 1492 \nc) 1502 \nd) 1512.\n\nAnswer Key: \n1) a\n2) b\n3) c\n4) c\n5) b.",
+    "input": "",
+    "instruction": "Create a quiz with 5 questions about history"
+  },
+  {
+    "output": "Growing tomatoes can be a rewarding experience for a home gardener, but there are several things to keep in mind to ensure healthy and productive plants:\n\n1. Choose the right variety: Tomatoes come in many different varieties, ranging from large beefsteak tomatoes to small cherry tomatoes. Some varieties may be better suited for your climate, growing space, and taste preferences.\n\n2. Start with healthy plants: Whether you are starting your tomato plants from seeds or seedlings, make sure they are healthy and free from disease. Look for plants that are strong and have deep green leaves.\n\n3. Provide proper sunlight: Tomatoes need a lot of sun to grow healthy and produce quality fruit. Make sure to plant them in a location that gets at least 6-8 hours of sunlight per day.\n\n4. Keep the soil moist: Tomatoes have deep roots and require regular watering to keep the soil moist. During dry spells, it may be necessary to water more frequently to prevent the soil from drying out. Avoid overwatering, though, as this can lead to root rot and other issues.\n\n5. Fertilize regularly: Tomatoes are heavy feeders and require regular fertilization to thrive. Choose a balanced fertilizer that is specifically formulated for tomatoes and follow the directions on the label for application rates.\n\n6. Stake or cage the plants: Tomatoes can grow quite tall and will need support to keep their branches from breaking. Use stakes, cages, or trellises to keep the plants upright and prevent the fruit from touching the ground.\n\n7. Watch for pests and diseases: Tomatoes are susceptible to a variety of pests and diseases. Keep an eye out for common issues like aphids, cutworms, and blight. If you notice any problems, take action quickly to prevent the issue from spreading.\n\nBy following these tips, home gardeners can successfully grow delicious and healthy tomatoes in their gardens.",
+    "input": "",
+    "instruction": "What should a home gardener be aware of when growing tomatoes?"
+  },
+  {
+    "output": "Based on available data and research, one possible hypothesis could be that the population size of female leopards in Madagascar is decreasing due to habitat loss and poaching.",
+    "input": "",
+    "instruction": "Formulate a hypothesis about the population size of female leopards in Madagascar."
+  },
+  {
+    "output": "One way to sort the given numbers in ascending order is by using the Bubble Sort algorithm. Here are the steps involved:\n\n1. Start by comparing the first two elements of the list (i.e., 5 and 3).\n2. If the first element is greater than the second element, swap them (i.e., swap 5 and 3 to get 3, 5, 9, 1).\n3. Move to the next pair of elements (i.e., 5 and 9) and repeat the same process.\n4. Keep repeating this process until the end of the list is reached (i.e., the list after the first iteration will be 3, 5, 1, 9).\n5. Repeat the entire process again, but this time ignore the last element since it is already in its correct place (i.e., the list after the second iteration will be 3, 1, 5, 9).\n6. Keep repeating this process while ignoring the last element each time until the entire list is sorted in ascending order (i.e., the final sorted list will be 1, 3, 5, 9).\n7. The final sorted list in ascending order is [1, 3, 5, 9].",
+    "input": "",
+    "instruction": "Develop an algorithm to sort the following numbers: 5, 3, 9, 1."
+  },
+  {
+    "output": "The average mass per atom of the molecule C2H2 can be calculated by finding the molecular mass of the compound and then dividing it by the total number of atoms in the formula. \n\nFirst, find the molecular mass: \nC2H2 has 2 Carbon atoms and 2 Hydrogen atoms. \n- The atomic mass of Carbon is approximately 12.01 g/mol. \n- The atomic mass of Hydrogen is approximately 1.008 g/mol. \n\nSo, the molecular mass of C2H2 = (2 x 12.01) + (2 x 1.008) = 26.036 g/mol.\n\nSecond, divide the molecular mass by the total number of atoms:\nThere are 4 atoms in total (2 C atoms + 2 H atoms). \n\nThe average mass per atom is 26.036 g/mol \u00f7 4 = 6.509 g/mol.",
+    "input": "C2H2",
+    "instruction": "Given a chemical formula, determine what the average mass per atom is."
+  },
+  {
+    "output": "Document Title: \"Exploring the Impact of Climate Change on Biodiversity\"",
+    "input": "The effects of climate change on biodiversity",
+    "instruction": "Create a document title describing the following sentence."
+  },
+  {
+    "output": "1. Microsoft Windows \u2013 an operating system used in many personal computers and laptops worldwide.\n2. Microsoft Office \u2013 a suite of productivity applications like Word, Excel, PowerPoint used in businesses and homes.\n3. Google Chrome \u2013 a widely used web browser, known for its fast and reliable performance.\n4. Adobe Photoshop \u2013 an advanced image editing software used for photo manipulation, graphic design and digital art.\n5. Anti-virus Software like McAfee or Norton Security \u2013 programs that protect computers from malware, viruses, and phishing attacks.",
+    "input": "",
+    "instruction": "Name five popular computer software"
+  },
+  {
+    "output": "A recent study suggests that consuming chocolate can lower inflammation and enhance blood circulation, leading to health benefits.",
+    "input": "Article:\nNew research has found that chocolate consumption can have health benefits such as reducing inflammation and improving blood flow.",
+    "instruction": "Given an article, make a summary in a single sentence."
+  },
+  {
+    "output": "1. Bananas \n2. Apples \n3. Oranges \n4. Strawberries \n5. Grapes.",
+    "input": "",
+    "instruction": "Identify five common fruits"
+  },
+  {
+    "output": "One example of an event that may cause changes in political spending patterns could be a significant economic recession. During a recession, individuals, organizations, and companies may have less disposable income to donate to political campaigns or causes, potentially leading to a decrease in overall political spending. Similarly, government agencies may need to readjust their budgets and redirect funding from campaign activities to emergency assistance programs and economic recovery initiatives. Moreover, economic instability could result in changes in public attitudes, with more people showing support for candidates and policies that prioritize economic growth, employment, and financial stability. Consequently, candidates may adapt their platforms, and political parties could adjust their spending patterns to reflect changes in voter priorities.",
+    "input": "",
+    "instruction": "Come up with an example of an event that may cause changes in political spending patterns."
+  },
+  {
+    "output": "A linked list is a linear data structure where each element is a separate object with a data part and a link part. The link part points to the next element in the list. To create a linked list in C++, we start by defining a node structure, which should have a data member and a next pointer:\n\n```cpp\nstruct Node {\n    int data;\n    Node* next;\n};\n```\n\nNext, we can create a class for a linked list that includes functions to manipulate the list:\n\n```cpp\nclass LinkedList {\nprivate:\n    Node* head;\npublic:\n    LinkedList() {\n        head = nullptr;\n    }\n    void insertAtHead(int value) {\n        Node* newNode = new Node();\n        newNode->data = value;\n        if (head == nullptr) {\n            head = newNode;\n            head->next = nullptr;\n        }\n        else {\n            newNode->next = head;\n            head = newNode;\n        }\n    }\n    void display() {\n        Node* temp = head;\n        while (temp != nullptr) {\n            cout << temp->data << \" \";\n            temp = temp->next;\n        }\n        cout << endl;\n    }\n};\n```\n\nHere, we have created a `LinkedList` class that has a private member `head`, that points to the first element of the list. The class has a constructor that initializes `head` to `nullptr`. It also has two public functions: `insertAtHead` to insert a new element at the beginning of the list, and `display` to display the entire list.\n\nHere is an example of how to create and manipulate a linked list:\n\n```cpp\nint main()\n{\n    LinkedList list;\n    list.insertAtHead(1);\n    list.insertAtHead(2);\n    list.insertAtHead(3);\n    list.display();\n    return 0;\n}\n```\n\nThis will create a linked list with three elements and display it. The output will be: `3 2 1`.",
+    "input": "",
+    "instruction": "How do you create a linked list in C++?"
+  },
+  {
+    "output": "Text about the benefits of online education:\n\n1. Flexibility: Online education provides flexibility in terms of when and where students can access course content, allowing them to manage their studies around other commitments.\n\n2. Lower costs: Online courses often cost less than traditional on-campus courses, due to a lack of overhead expenses like campus upkeep and commuting costs.\n\n3. Increased accessibility: Online platforms provide the opportunity for students from all over the world to access courses, regardless of their location.\n\n4. Personalized learning: With online education, students can move at their own pace and take the time they need to understand the material. This can help to improve the effectiveness of their learning and increase their chances of success.\n\n5. Improved technical skills: Online courses often involve the use of various digital tools, which can help to improve students\u2019 technical skills, such as proficiency with digital communication and computer skills.",
+    "input": "[Text about the benefits of online education]",
+    "instruction": "Paste the given text into the correct format."
+  },
+  {
+    "output": "1. Information and Knowledge: One of the primary factors that contribute to decision-making is having access to reliable information and knowledge about the situation or the available options. It is important to gather all relevant data and information, analyze them, and understand the potential consequences of each decision. This helps in making informed decisions that are based on facts and reasoning. \n\n2. Values and Goals: Another important factor that influences decision-making is the values, beliefs, and goals of the individual making the decision. These personal factors help to shape what the individual considers to be important and valuable, and therefore influences the choices that they make. In complex situations, decision-making often involves weighing the potential outcomes against one's own values and goals to determine the best course of action.",
+    "input": "",
+    "instruction": "Name two factors that contribute to decision-making."
+  },
+  {
+    "output": "The first sentence, \"I love this product!\" has a positive sentiment.\nThe second sentence, \"I don't like this product.\" has a negative sentiment.",
+    "input": "I love this product!\nI don't like this product.",
+    "instruction": "Classify the following two sentences into either positive or negative sentiment."
+  },
+  {
+    "output": "Below are the basic steps in painting a room:\n\n1. Plan: Start by selecting the paint type, color and finish you want for your room.\n\n2. Prepare: Clear out furniture, decorations and floor coverings from the room. Wipe the walls clean to remove any dust, dirt, and debris. Use painter's tape to mask off baseboards, windows, doors, and ceiling edges to ensure clean paint lines.\n\n3. Repair: Patch any cracks, holes, or defects in the wall with a spackling compound, and sand the repaired areas smooth.\n\n4. Prime: Apply a coat of primer to the walls, using a brush for edges and corners and a roller for larger areas. Let the primer dry completely.\n\n5. Paint: Once the primer is dry, begin painting the walls using your chosen paint. Use a brush for corners, edges and hard-to-reach areas, and a roller for larger surfaces. Apply the paint in thin, even coats, working from top to bottom. Allow the first coat to dry completely before applying a second coat.\n\n6. Clean Up: Once painting is complete, remove the painter's tape, being careful not to peel off any paint. Clean your paintbrushes, rollers and other tools, and dispose of any used paint cans or materials.\n\n7. Replace: Once the paint is fully dry, move furniture, decorations and floor coverings back into the room. You may also add new d\u00e9cor to enhance the room's new look.",
+    "input": "",
+    "instruction": "Describe the basic steps in painting a room."
+  },
+  {
+    "output": "The vast, dark, shimmering, mysterious, and astonishing night sky was truly beautiful.",
+    "input": "The night sky was beautiful.",
+    "instruction": "Expand this sentence using five adjectives."
+  },
+  {
+    "output": "Iris germanica is a hybrid flower.",
+    "input": "Iris germanica",
+    "instruction": "Classify the following flower species as either a wild or hybrid flower."
+  },
+  {
+    "output": "The design concept of an interactive game for kids aged 8-12 years old that teaches them about the world around them is a promising start. It addresses a key need for educational entertainment for children and has the potential to be engaging and informative.\n\nHowever, the concept could benefit from more specific details about the game's content, mechanics, and intended audience. For example, what specific topics within the theme of \"the world around them\" will the game be covering? How will the game teach and engage children on these topics? And what specific age range within the 8-12 year old demographic is the game targeting? Further clarification on these points could strengthen the concept and give a clearer idea of how the game will be executed.",
+    "input": "The product is an interactive game for kids 8-12 years old, where they will learn about the world around them.",
+    "instruction": "Critique the following design concept."
+  },
+  {
+    "output": "A black hole is an incredibly dense, compact object in space with gravity so strong that nothing, not even light, can escape its pull once it falls within its event horizon. Black holes come in various sizes, with the smallest being only several miles across, and the largest being billions of times larger than our Sun. They are formed when a massive star dies and its core collapses under the intense pressure of its own gravity. Black holes are invisible, but their presence can be detected by the effects of their gravity on nearby objects, such as stars and gas, causing them to emit X-rays and other radiation. The study of black holes provides important insights into the nature of gravity, space, and time.",
+    "input": "",
+    "instruction": "Write a brief description of the characteristics of a black hole."
+  },
+  {
+    "output": "To solve this problem, we can first create a dictionary to store the indices of each string in list1. Then, for each string in list2, we can check if it appears in the dictionary and calculate the index sum. If the index sum is smaller than the current minimum index sum, we update the result list. Here is the Python code to implement this algorithm:\n\n```\ndef findRestaurant(list1, list2):\n    index = {word: i for i, word in enumerate(list1)}\n    min_sum = float('inf')\n    result = []\n    for j, word in enumerate(list2):\n        if word in index:\n            if j + index[word] < min_sum:\n                min_sum = j + index[word]\n                result = [word]\n            elif j + index[word] == min_sum:\n                result.append(word)\n    return result\n```\n\nFor example, if we have list1 = [\"Shogun\", \"Tapioca Express\", \"Burger King\", \"KFC\"], and list2 = [\"KFC\", \"Shogun\", \"Burger King\"], then the function would return [\"Shogun\"] because the index sum of \"Shogun\" is 1 + 1 = 2, which is the smallest among all common strings.",
+    "input": "",
+    "instruction": "Given two arrays of strings list1 and list2, find the common strings with the least index sum.\n\nA common string is a string that appeared in both list1 and list2.\n\nA common string with the least index sum is a common string such that if it appeared at list1[i] and list2[j] then i + j should be the minimum value among all the other common strings.\n\nReturn all the common strings with the least index sum. Return the answer in any order."
+  },
+  {
+    "output": "Outline:\nI. Introduction to the importance of the web\n    A. Essential part of our lives\nII. Uses of the web\n    A. Access to news\n    B. Entertainment\n    C. Education\n    D. Communication",
+    "input": "The web has become an essential part of our lives, providing access to news, entertainment, education, and communication.",
+    "instruction": "Given the following passage, create an outline of the main points."
+  },
+  {
+    "output": "Spring has arrived, nature awakes\nA season of bloom and heartfelt takes\nBirds and bees, sing and dance \nFlowers blossom with every chance \n\nNew beginnings flourish all around \nA time of growth and beauty profound \nWhere warmth returns and joy is found\nIn springtime, love and life abound.",
+    "input": "",
+    "instruction": "Tell me a poem that is 8 lines long and has a theme of springtime."
+  },
+  {
+    "output": "John usually cleaned his car every morning and afternoon on most days of the week. Although he would occasionally forget, he made up for it the following day.",
+    "input": "John newed up his car every morn and afta on most days of the week, altho he would sometimes forget on the odd day, but then he would make up for it the next day.",
+    "instruction": "Edit the following paragraph to improve readability and clarity."
+  },
+  {
+    "output": "There are several methods that can be used to validate a machine learning model to assess its performance, and some of them include:\n\n1. Holdout Method: This is one of the most common methods, and it involves splitting the dataset into two parts - training and testing. The model is trained on the training set and then evaluated on the testing set. The performance metrics obtained give an estimate of how well the model is likely to perform on unseen data.\n\n2. K-fold Cross Validation: This method involves dividing the dataset into k folds, with one fold being used for testing and the remaining k-1 folds used for training. The process is repeated k times, with each fold being used once for testing. The average performance metric is then calculated to give an overall estimate of the model's performance.\n\n3. Leave One Out Cross Validation (LOOCV): This is a variation of the k-fold cross-validation, where k is set to the number of samples in the dataset. Essentially, the model is trained on all samples except one, which is used for testing. This process is repeated for all samples and the average performance metric is calculated. This method is computationally expensive but can give a reliable estimate of the model's performance.",
+    "input": "",
+    "instruction": "List 3 methods to validate a machine learning model"
+  },
+  {
+    "output": "In a concerning development for the environment, a recent study has shed light on the rise of greenhouse gas emissions in the state.",
+    "input": "The latest report from the Environmental Protection Agency reveals that the emissions of greenhouse gasses in the state have risen by 5% from last year.",
+    "instruction": "Choose an appropriate introduction for the following news article."
+  },
+  {
+    "output": "In JavaScript, you can use the `sort()` method to sort an array. By default, `sort()` uses a unstable sorting algorithm, which means it may not maintain the relative order of elements with equal values. To perform a stable sort, you can write your own implementation of the merge sort algorithm or use a library that provides a stable sort function, such as Lodash's `_.sortBy()` or Underscore's `_.sortBy()`. These library methods allow you to specify a property to sort by and will maintain the order of elements with equal values.",
+    "input": "",
+    "instruction": "How to stable sort in javascript?"
+  },
+  {
+    "output": "Benefits of Soccer\n\nSoccer is undoubtedly one of the most popular sports in the world, with millions of people who play and watch the sport. However, apart from its entertainment value, soccer offers a multitude of benefits that can improve one's health, mindsets and social life. In this article, we will discuss some of the benefits that soccer provides to those who participate in it.\n\n1. Physical Fitness: The first and most obvious benefit of playing soccer is the improvement of physical fitness. Soccer demands a lot of physical activity, such as running, sprinting, jumping and tackling, all of which can improve cardiovascular and muscular endurance, flexibility, and overall physical strength.\n\n2. Teamwork and Communication: Soccer is a team sport, where success can only be achieved through the combined effort of every player. This requires good communication and coordination, and it helps develop better teamwork skills. Through the process of teamwork, players learn to rely on one another and to trust their teammates, which can be valuable qualities in all areas of life.\n\n3. Problem Solving and Strategic Thinking: Like many sports, soccer also requires critical thinking and problem-solving. Players must be able to read their opponents' movements and anticipate their actions, develop tactics and strategies to overcome their opponents, and adjust those plans on the fly if necessary.\n\n4. Stress Relief: Playing soccer, like any other form of exercise, can reduce stress levels and improve your mood. Research shows that exercise stimulates the production of endorphins, which are natural pain-killers and mood elevators. Furthermore, the social aspect of playing on a team and having a shared goal can also contribute to reducing stress levels.\n\n5. Social Bonding: Soccer brings people from different backgrounds together as they work towards a common goal. It helps to promote social bonding and can serve as an avenue to make new friends and develop long-lasting relationships. This sense of camaraderie and unity can extend beyond the field and foster better relationships in other areas of our lives.\n\nIn conclusion, playing soccer offers a multitude of benefits, from improving physical fitness to reducing stress, promoting teamwork, strategic thinking, and fostering social bonds. It is a sport that can be enjoyed by people of all ages and skills levels, and the rewards it offers can truly enrich one\u2019s life. If you've never played before, why not give it a try and discover the numerous benefits it can offer?",
+    "input": "",
+    "instruction": "Generate a new article based on the topic : \"Benefits of Soccer.\""
+  },
+  {
+    "output": "1. Fragmented care delivery: One reason for the inefficiency of the US healthcare system is fragmentation in care delivery, with multiple providers and insurers involved along a patient's care journey. This contributes to gaps in communication and coordination of care, leading to duplication of services, delays, and increased costs.\n\n2. High administrative costs: Another reason for the inefficiency of the US healthcare system is the high administrative burden and costs associated with a multi-payer insurance environment and managing claims and requests for prior authorization. According to a study by the Center for American Progress, administrative costs in the US healthcare system are estimated to be as much as 8% of total healthcare spending, significantly higher than other countries with simpler, single-payer healthcare systems.",
+    "input": "",
+    "instruction": "Give two reasons why the healthcare system in the US is inefficient."
+  },
+  {
+    "output": "For Sale: 2nd-Hand Laptop\n\nLooking for a reliable and affordable laptop? Look no further! We have a gently used laptop for sale, in excellent condition and fully operational. Great for students, work from home or everyday use. It has been thoroughly checked and all files and software have been removed to provide a fresh start for the new owner. Comes with power cord and accessories. Specification details are available upon request. Don't miss out on this amazing deal. Contact us today to purchase this great laptop at a fraction of the cost of a new one.",
+    "input": "2nd-hand laptop",
+    "instruction": "Create a classified ad for the given item."
+  },
+  {
+    "output": "Career: Sports coach\n\nPros:\n- Opportunity to positively impact the lives and athletic development of athletes.\n- Chance to share your passion for sports and physical activity with others.\n- The satisfaction of seeing athletes improve and excel in their chosen sports.\n- The ability to work in a dynamic, active, and team-oriented environment.\n- The potential to foster life skills, such as teamwork, discipline, and goal-setting, among young athletes.\n- The opportunity for continuous learning and professional development.\n- The potential for a flexible and varied work schedule.\n\nCons:\n- It can be a highly competitive and demanding field.\n- The potential for long and irregular work hours, including nights, weekends, and holidays.\n- The responsibility of dealing with the pressure of winning and losing, as well as the expectations of athletes, parents, and fans.\n- The need to constantly adjust training and coaching methods to meet the needs of individual athletes and teams.\n- The potential for a high-stress work environment, especially in high-performance settings.\n- The need to manage conflicts and deal with emotionally-charged situations.\n- The potential for a high level of physical and mental demands.",
+    "input": "Career: Sports coach",
+    "instruction": "Make a list of the pros and cons of this career."
+  },
+  {
+    "output": "What kind of fish species was discovered by scientists in the Amazon river?",
+    "input": "Article: \n\nScientists have discovered a new species of fish in the Amazon river.",
+    "instruction": "Construct a valid question about the article you just read."
+  },
+  {
+    "output": "Here is an example of a seven-day travel itinerary for a trip to the United States:\n\nDay 1: Arrival to New York City\n- Arrive at JFK or LaGuardia airport and settle into your hotel\n- Take a walk through Central Park and visit the nearby Metropolitan Museum of Art\n- Have dinner at a renowned restaurant in the city\n\nDay 2: New York City\n- Visit the Statue of Liberty and Ellis Island\n- Take a tour through the historic neighborhoods of Greenwich Village and SoHo\n- Explore the 9/11 Memorial and Museum\n\nDay 3: Philadelphia\n- Travel to Philadelphia by train or car\n- Visit the Liberty Bell and Independence Hall\n- Take a stroll through the Reading Terminal Market for lunch\n- Visit the Philadelphia Museum of Art\n\nDay 4: Washington D.C.\n- Travel to Washington D.C. by train or car\n- Visit the National Mall and see the Lincoln Memorial, Washington Monument, and other iconic landmarks\n- Explore the Smithsonian Museums, including the National Air and Space Museum and the National Museum of American History\n\nDay 5: Washington D.C.\n- Take a tour of the White House and the U.S. Capitol Building\n- Visit the National Gallery of Art\n- Explore the trendy neighborhoods of Georgetown and Dupont Circle\n\nDay 6: Chicago\n- Travel to Chicago by plane\n- Visit the Willis Tower for stunning views of the city\n- Take an architecture boat tour along the Chicago River\n- Enjoy some deep-dish pizza for dinner\n\nDay 7: Chicago\n- Visit the Art Institute of Chicago\n- Take a stroll through Millennium Park and see the famous Cloud Gate sculpture\n- Explore the vibrant neighborhoods of Wicker Park and Bucktown\n- Depart from O'Hare or Midway airport.",
+    "input": "Destination: USA. \nDuration: 7 days.",
+    "instruction": "Given the specific information and the context, provide a travel itinerary for a 7-day trip in USA."
+  },
+  {
+    "output": "Joey enjoys drinking coffee in the morning.",
+    "input": "Joey enjoys to drink coffee in the morning.",
+    "instruction": "Edit the given text to remove grammatical errors without changing the meaning."
+  },
+  {
+    "output": "A trade deficit, also referred to as a negative balance of trade, is when a country imports more goods and services than it exports over a specific period, usually a year. This means that the value of its imports is greater than its exports, leading to an imbalance in the country's foreign trade. A trade deficit can affect a country's economy, as it reflects that the country is spending more foreign currency on imports than it is receiving from its exports. In some cases, prolonged trade deficits can lead to a weakening of the country's currency, increased borrowing and rising interest rates. However, it is important to note that trade deficits are not always detrimental, as they can also reflect a strong domestic demand for foreign goods and a thriving economy.",
+    "input": "",
+    "instruction": "What is a trade deficit?"
+  },
+  {
+    "output": "Chili Con Carne\n\nIngredients:\n- 1 tablespoon vegetable oil\n- 1 large onion, chopped\n- 2 cloves garlic, minced\n- 1 pound ground beef\n- 1 can (14.5 ounces) diced tomatoes\n- 1 can (8 ounces) tomato sauce\n- 2 tablespoons chili powder\n- 1 teaspoon ground cumin\n- 1 teaspoon dried oregano\n- 1/2 teaspoon salt\n- 1 can (15.5 ounces) kidney beans, drained and rinsed\n- 1 can (15.5 ounces) pinto beans, drained and rinsed\n\nInstructions:\n\n1. In a large pot or Dutch oven, heat the oil over medium heat. Add the onions and garlic and cook until the onions are softened, about 5 minutes.\n\n2. Add the ground beef and cook, breaking up the meat with a wooden spoon, until browned, about 10 minutes.\n\n3. Stir in the tomatoes, tomato sauce, chili powder, cumin, oregano, and salt. Bring to a simmer and cook for 10 minutes.\n\n4. Stir in the beans and cook until heated through, about 5 minutes.\n\n5. Serve hot and garnish with your favorite toppings such as shredded cheese, sour cream, chopped green onions or cilantro.\n\nEnjoy your Homemade Chili Con Carne!",
+    "input": "",
+    "instruction": "Generate a recipe for a chili con carne dish."
+  },
+  {
+    "output": "The example of personification in this story is \"The wind howled and shook the trees, making them bow to its will.\" It attributes human qualities and actions (\"howled\" and \"making them bow to its will\") to an inanimate object, the wind.",
+    "input": "The wind howled and shook the trees, making them bow to its will. The branches seemed to reach out, as if they were calling for help.",
+    "instruction": "Find an example of personification in the following story."
+  },
+  {
+    "output": "Let's find a convenient time to work on this.",
+    "input": "I don't have time for this.",
+    "instruction": "Recast the following sentence in a positive tone."
+  },
+  {
+    "output": "There are a number of reasons why people are living longer today than in the past, including advancements in medicine, improved health-care systems, better hygiene and sanitation, and increased access to information and education about healthy living. For example:\n\n1. Advancements in Medicine: Major efforts from both public and private institutions have brought about tremendous progress in medical research, resulting in new vaccines, treatments, and cures for many diseases that once were considered fatal.\n\n2. Improved Health-Care Systems: Many countries have reformed their health care systems to make them more efficient and accessible, providing people with better preventive and medical attention, which has helped to increase life expectancy.\n\n3. Better Hygiene and Sanitation: Improvements in basic hygiene practices such as hand-washing, clean water supply and efficient waste management systems have significantly reduced the spread of infectious diseases.\n\n4. Increased Access to Information and Education: With the rise of the internet, people have more access to information about healthy habits, nutrition and exercise, which can help them take better care of their bodies and live longer.\n\nOverall, a combination of these factors, along with others, have helped to increase life expectancy and improve the quality of life for people all around the world.",
+    "input": "",
+    "instruction": "Explain why people are living longer today than in the past."
+  },
+  {
+    "output": "Natural Language Processing (NLP) is a field of artificial intelligence concerned with the analysis and generation of human language. NLP can be used in medical research in several ways, including:\n\n1. Mining electronic health records: NLP techniques can be used to analyze electronic health records (EHRs) and extract useful insights for medical research. This includes identifying patterns in patient conditions, treatments, and outcomes.\n\n2. Analyzing medical literature: NLP can help researchers analyze vast amounts of medical literature to identify relevant articles, extract key findings, and summarize the results. This can save researchers significant time and effort.\n\n3. Automating clinical trial matching: NLP can be used to match patients to appropriate clinical trials based on their medical histories and other relevant criteria. This can help increase the speed and efficiency of patient recruitment for clinical trials.\n\n4. Developing diagnostic tools: NLP can be used to develop diagnostic tools that can analyze patients' speech, writing, or other forms of communication for signs of certain conditions, such as depression or Alzheimer's disease.\n\nIn summary, NLP can be a valuable tool in medical research, helping researchers to analyze data, identify patterns, and make new discoveries.",
+    "input": "",
+    "instruction": "How could natural language processing be used in medical research?"
+  },
+  {
+    "output": "**Roasted Broccoli Recipe**\n\nPrep Time: 10 mins |  Cook Time: 20 mins | Total Time: 30 mins | Servings: 4\n\nIngredients:\n- 2 heads of broccoli\n- 3 tbsp olive oil\n- salt and pepper to taste\n- 2 cloves of garlic, minced\n- 1/2 lemon, squeezed for its juice\n\nInstructions:\n\n1. Preheat your oven to 425\u00b0F (220\u00b0C).\n\n2. Rinse the broccoli and pat it dry. Cut the broccoli into bite-sized florets and place them in a large bowl.\n\n3. Mix in the olive oil, salt, pepper, and minced garlic with the broccoli, coating each floret evenly.\n\n4. Spread the broccoli florets in a single layer on a baking sheet lined with parchment paper.\n\n5. Place the baking sheet in the preheated oven and roast for 20 minutes or until the broccoli is tender and slightly browned at the edges.\n\n6. Once done, remove the broccoli from the oven and squeeze lemon juice over the top. Toss to coat.\n\n7. Serve immediately and enjoy your delicious roasted broccoli!",
+    "input": "",
+    "instruction": "Create a recipe for roasted broccoli"
+  },
+  {
+    "output": "$ \\huge \\int_a^b\\frac{x^3 - \\sqrt{x^2 + \\sin(x)}}{\\log_e(3x+2)}\\,dx + \\sum\\limits_{n=1}^{\\infty}\\frac{1}{n^2} $",
+    "input": "",
+    "instruction": "Create a complex mathematical expression in notation."
+  },
+  {
+    "output": "In the TV show Game of Thrones, there are several characters that could be considered protagonists. However, one of the main protagonists is Jon Snow. Jon Snow is a brave and honorable man who is often defined by his sense of duty and loyalty. He is the illegitimate son of Lord Ned Stark, and as a result, he has always struggled with feelings of being an outsider. Despite this, Jon is steadfast in his dedication to protect others, and he is widely respected for his courage and integrity. Throughout the series, Jon faces many challenges, as he becomes entrenched in the conflicts between the various factions vying for control of the Seven Kingdoms. However, he remains steadfast in his convictions, determined to do what is right, even if it means making difficult choices. Overall, Jon Snow is a complex and relatable character whose moral compass and selfless actions make him a beloved and admirable protagonist.",
+    "input": "Game of Thrones",
+    "instruction": "Describe the character of the protagonist in the given TV show."
+  },
+  {
+    "output": "Reschedule the office meeting.",
+    "input": "",
+    "instruction": "Edit the following sentence so that it is more concise:\n\nThe meeting at the office must be rescheduled to a later date."
+  },
+  {
+    "output": "The longest palindrome in the provided text is \"RacEcar\". Palindromes are words or phrases that read the same backward and forward. Both letters and punctuation are considered when determining if a word or phrase is a palindrome.",
+    "input": "RacEcar",
+    "instruction": "Find the longest palindrome in the provided text."
+  },
+  {
+    "output": "Here are some strategies that can be used to conserve energy in the home:\n\n1. Use energy efficient appliances: Upgrading to energy-efficient appliances can help to save energy and reduce electricity bills.\n\n2. Insulate your home: Make sure your walls, attic, and floors are properly insulated to help keep your home warm in the winter and cool in the summer, reducing the need for heating and cooling.\n\n3. Install smart thermostats: Smart thermostats can learn your habits and automatically adjust the temperature accordingly, which can help save energy.\n\n4. Change to LED lighting: LED lights use significantly less energy than traditional incandescent bulbs, and last much longer.\n\n5. Unplug electronics when not in use: Many electronics continue to use energy even when switched off, so unplugging them can help to reduce wasted energy.\n\n6. Use natural light: Open curtains and blinds during the day to allow natural light to enter your home, reducing the need for artificial lighting.\n\n7. Fix leaks: Fix any leaks in your home, as dripping taps and leaking toilets can waste a significant amount of water.\n\n8. Reduce water usage: Take shorter showers, and only run the dishwasher or washing machine when you have a full load, to save both water and energy.\n\n9. Plant trees: Planting trees or shrubs around your home can help to provide shade in the summer, reducing the need for air conditioning.\n\n10. Educate and involve everyone: Educate all members of the household about the importance of energy conservation, and involve them in taking action to reduce energy usage.",
+    "input": "",
+    "instruction": "What strategies can be used to conserve energy in the home?"
+  },
+  {
+    "output": "The students demonstrated excellent understanding of the material.",
+    "input": "The students demostrated excellent understand of the material",
+    "instruction": "Rewrite the following sentence fixing its grammar mistakes:"
+  },
+  {
+    "output": "Recent advancements in AI technology have promised to revolutionize many industries, including healthcare, finance, transportation, and manufacturing. With the capability to rapidly analyze and interpret large volumes of data, AI systems can help drive innovation, increase efficiency, and improve the overall quality of products and services. Additionally, AI technology has the potential to assist in critical decision-making and problem-solving, further enhancing its impact across various sectors.",
+    "input": "Recent advancements in AI technology have promised to revolutionize many industries, including _",
+    "instruction": "Please complete the given paragarph"
+  },
+  {
+    "output": "1. Majestic\n2. Towering\n3. Rugged\n4. Imposing",
+    "input": "",
+    "instruction": "Provide a list of four adjectives that describe a mountain."
+  },
+  {
+    "output": "Based on the data provided, it seems that the price of one stock of Google is significantly higher than that of Apple. The stock price of Google is $1,150.45 while the stock price of Apple is $309.00. However, it is important to note that a higher stock price doesn't necessarily indicate a better investment opportunity. Many other factors, like market capitalization, financial performance, and industry trends, should be considered when evaluating these stocks.",
+    "input": "Google - $1,150.45\nApple - $309.00",
+    "instruction": "Analyze these stock prices"
+  },
+  {
+    "output": "To recommend products to customers on a shopping website, a recommendation algorithm can be used. Some popular recommendation algorithms include:\n\n1. Collaborative filtering: This algorithm suggests items to customers that are similar to what other customers with similar tastes and preferences purchased or viewed.\n\n2. Content-based filtering: This algorithm takes into account the customer's past behavior and recommends items that are similar to those that the customer has previously shown an interest in.\n\n3. Hybrid approach: This combines the collaborative and content-based filtering approach to improve the recommendations.\n\n4. Matrix factorization: A technique that uses latent factors to predict customer ratings for products and recommends the highest-rated products to the customers.\n\nUltimately, the choice of algorithm would depend on the specific needs and goals of the shopping website, and the data that is available.",
+    "input": "A shopping website wants to recommend products to customers.",
+    "instruction": "What algorithm should be used to solve the given problem?"
+  },
+  {
+    "output": "The house's building design can be described as modern, sleek, spacious, airy, and elegant.",
+    "input": "",
+    "instruction": "Describe the building design of a house using five adjectives"
+  },
+  {
+    "output": "One of the strongest arguments supporting the title, \u201cReligious Education Should Not Be Taught in Public Schools\u201d is the principle of separation of church and state, which maintains that the government, including publicly funded institutions like schools, should not endorse, promote, or favor any particular religion or religious beliefs. This means that religious education, which frequently involves the teaching of the tenets, beliefs, and practices of specific religions, would violate this fundamental principle by appearing to favor certain religious views over others. Additionally, many people contend that it is not the role of the public education system to provide religious instruction, as this is traditionally the responsibility of families, religious institutions, and personal practice. Instead, public schools should focus on providing a secular, objective education that does not favor one religion over another or promote religious beliefs over non-belief.",
+    "input": "",
+    "instruction": "What is the argument that most accurately supports the title, \u201cReligious Education Should Not Be Taught in Public Schools\u201d?"
+  }
+]
